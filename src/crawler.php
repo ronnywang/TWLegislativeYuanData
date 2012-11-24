@@ -54,7 +54,7 @@ class Crawler
             // 1 - 簡介
             $ul_dom = $this->findDomByCondition($persondoc, 'ul', 'style', 'list-style-position:outside;')[0];
 
-            $list = array('姓名', '英文姓名', '性別', '黨籍', '黨團', '選區');
+            $list = array('姓名', '英文姓名', '性別', '黨籍', '黨團', '選區', '生日');
             foreach ($ul_dom->getElementsByTagName('li') as $li_dom) {
                 list($key, $value) = explode('：', trim($li_dom->nodeValue), 2);
 
