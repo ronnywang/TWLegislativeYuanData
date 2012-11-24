@@ -85,6 +85,30 @@ class Crawler
                 $person->{'pic'} = 'http://www.ly.gov.tw' . $img_dom->getAttribute('src');
 
             }
+
+            // 學歷
+            $ul_doms = $this->findDomByCondition($persondoc, 'ul', 'style', 'list-style-position:outside;');
+            $map = array(
+                1 => '學歷',
+                2 => '電話',
+                3 => '經歷',
+                4 => '傳真',
+                5 => '通訊處',
+            );
+
+            foreach ($map as $id => $name) {
+                $rows = array();
+                if ($ul_doms[$id]->getElementsByTagName('div')->length == 0) {
+                    $person->{$name} = $rows;
+                    continue;
+                }
+                foreach (explode('<br>', $this->innerHTML($persondoc, $ul_doms[$id]->getElementsByTagName('div')->item(0))) as $text) {
+                    if ('' !== trim($text)) {
+                        $rows[] = $text;
+                    }
+                }
+                $person->{$name} = $rows;
+            }
             $persons[] = $person;
         }
         echo json_encode($persons, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
