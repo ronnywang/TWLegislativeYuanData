@@ -31,9 +31,8 @@ class Crawler
         return curl_exec($curl);
     }
 
-    public function main()
+    public function main($url)
     {
-        $url = 'http://www.ly.gov.tw/03_leg/0301_main/legList.action';
         $doc = new DOMDocument();
         $full_body = $this->getBodyFromURL($url);
         @$doc->loadHTML($full_body);
@@ -115,5 +114,10 @@ class Crawler
     }
 }
 
+if ($_SERVER['argv'][1]) {
+    $url = $_SERVER['argv'][1];
+} else {
+    $url = 'http://www.ly.gov.tw/03_leg/0301_main/legList.action';
+}
 $c = new Crawler;
-$c->main();
+$c->main($url);
