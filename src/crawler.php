@@ -95,13 +95,19 @@ class Crawler
                 5 => '通訊處',
             );
 
-            foreach ($map as $id => $name) {
+            foreach ($map as $n) {
+                $person->{$n} = array();
+            }
+
+            foreach ($ul_doms as $ul_dom) {
+                $name = strval($ul_dom->previousSibling->previousSibling->nodeValue);
+
                 $rows = array();
-                if ($ul_doms[$id]->getElementsByTagName('div')->length == 0) {
+                if ($ul_dom->getElementsByTagName('div')->length == 0) {
                     $person->{$name} = $rows;
                     continue;
                 }
-                foreach (explode('<br>', $this->innerHTML($persondoc, $ul_doms[$id]->getElementsByTagName('div')->item(0))) as $text) {
+                foreach (explode('<br>', $this->innerHTML($persondoc, $ul_dom->getElementsByTagName('div')->item(0))) as $text) {
                     if ('' !== trim($text)) {
                         $rows[] = $text;
                     }
