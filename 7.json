@@ -19,7 +19,7 @@
             ],
             [
                 "第7屆第3會期",
-                "經濟委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經濟委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第4會期",
@@ -66,9 +66,14 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00001&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00001&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00001&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00001&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00001&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00001&stage=7"
+        }
     },
     {
         "姓名": "孔文吉",
@@ -106,7 +111,7 @@
             ],
             [
                 "第7屆第6會期",
-                "內政委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "內政委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第7會期",
@@ -141,9 +146,16 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00005&stage=7",
+            "委員政績": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/achievement\/achiList.action?lgno=00005&stage=7",
+            "任內推動法案": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_bill\/billList.action?lgno=00005&stage=7",
+            "質詢稿查詢": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/interrogate\/interList.action?lgno=00005&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00005&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00005&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00005&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00005&stage=7"
+        }
     },
     {
         "姓名": "王廷升",
@@ -206,9 +218,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00123&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00123&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00123&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00123&stage=7"
+        }
     },
     {
         "姓名": "王幸男",
@@ -262,7 +277,7 @@
             ],
             [
                 "第7屆第8會期",
-                "交通委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "交通委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第8會期",
@@ -291,9 +306,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00003&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00003&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00003&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00003&stage=7"
+        }
     },
     {
         "姓名": "王金平",
@@ -361,9 +379,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00002&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00002&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00002&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00002&stage=7"
+        }
     },
     {
         "姓名": "王進士",
@@ -429,9 +450,19 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00004&stage=7",
+            "公聽會資料": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/public\/publicList.action?lgno=00004&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00004&stage=7",
+            "委員活動看版": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_act\/actList.action?lgno=00004&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00004&stage=7",
+            "網路論壇": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_forum\/forumClassList.action?lgno=00004&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00004&stage=7",
+            "委員活動剪影": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/album\/albumClassList.action?lgno=00004&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00004&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00004&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00004&stage=7"
+        }
     },
     {
         "姓名": "田秋堇",
@@ -535,9 +566,13 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00006&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00006&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00006&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00006&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00006&stage=7"
+        }
     },
     {
         "姓名": "朱鳳芝",
@@ -567,11 +602,11 @@
             ],
             [
                 "第7屆第5會期",
-                "紀律委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "紀律委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第5會期",
-                "交通委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "交通委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第6會期",
@@ -579,7 +614,7 @@
             ],
             [
                 "第7屆第7會期",
-                "交通委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "交通委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第8會期",
@@ -617,9 +652,15 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00007&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00007&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00007&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00007&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00007&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00007&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00007&stage=7"
+        }
     },
     {
         "姓名": "江玲君",
@@ -665,7 +706,7 @@
             ],
             [
                 "第7屆第7會期",
-                "社會福利及衛生環境委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "社會福利及衛生環境委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第8會期",
@@ -699,9 +740,16 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00008&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00008&stage=7",
+            "委員活動看版": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_act\/actList.action?lgno=00008&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00008&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00008&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00008&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00008&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00008&stage=7"
+        }
     },
     {
         "姓名": "江義雄",
@@ -715,19 +763,19 @@
         "委員會": [
             [
                 "第7屆第1會期",
-                "教育及文化委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "教育及文化委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第1會期",
-                "紀律委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "紀律委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第2會期",
-                "教育及文化委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "教育及文化委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第2會期",
-                "紀律委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "紀律委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第3會期",
@@ -735,7 +783,7 @@
             ],
             [
                 "第7屆第3會期",
-                "經費稽核委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經費稽核委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第4會期",
@@ -751,7 +799,7 @@
             ],
             [
                 "第7屆第5會期",
-                "教育及文化委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "教育及文化委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第5會期",
@@ -818,9 +866,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00010&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00010&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00010&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00010&stage=7"
+        }
     },
     {
         "姓名": "余天",
@@ -885,9 +936,13 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00011&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00011&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00011&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00011&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00011&stage=7"
+        }
     },
     {
         "姓名": "余政道",
@@ -963,9 +1018,16 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00012&stage=7",
+            "任內推動法案": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_bill\/billList.action?lgno=00012&stage=7",
+            "質詢稿查詢": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/interrogate\/interList.action?lgno=00012&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00012&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00012&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00012&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00012&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00012&stage=7"
+        }
     },
     {
         "姓名": "吳育昇",
@@ -983,7 +1045,7 @@
             ],
             [
                 "第7屆第1會期",
-                "內政委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "內政委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第1會期",
@@ -999,11 +1061,11 @@
             ],
             [
                 "第7屆第2會期",
-                "內政委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "內政委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第3會期",
-                "內政委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "內政委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第4會期",
@@ -1011,11 +1073,11 @@
             ],
             [
                 "第7屆第5會期",
-                "紀律委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "紀律委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第5會期",
-                "內政委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "內政委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第6會期",
@@ -1023,7 +1085,7 @@
             ],
             [
                 "第7屆第7會期",
-                "內政委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "內政委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第8會期",
@@ -1057,9 +1119,18 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00014&stage=7",
+            "任內推動法案": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_bill\/billList.action?lgno=00014&stage=7",
+            "質詢稿查詢": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/interrogate\/interList.action?lgno=00014&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00014&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00014&stage=7",
+            "記者會": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/press_con\/pressConList.action?lgno=00014&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00014&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00014&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00014&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00014&stage=7"
+        }
     },
     {
         "姓名": "吳清池",
@@ -1073,27 +1144,27 @@
         "委員會": [
             [
                 "第7屆第1會期",
-                "紀律委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "紀律委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第1會期",
-                "司法及法制委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "司法及法制委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第2會期",
-                "司法及法制委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "司法及法制委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第2會期",
-                "紀律委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "紀律委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第3會期",
-                "司法及法制委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "司法及法制委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第4會期",
-                "司法及法制委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "司法及法制委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第5會期",
@@ -1101,7 +1172,7 @@
             ],
             [
                 "第7屆第5會期",
-                "經濟委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經濟委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第6會期",
@@ -1146,9 +1217,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00015&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00015&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00015&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00015&stage=7"
+        }
     },
     {
         "姓名": "呂學樟",
@@ -1190,23 +1264,23 @@
             ],
             [
                 "第7屆第5會期",
-                "司法及法制委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "司法及法制委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第6會期",
-                "紀律委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "紀律委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第6會期",
-                "司法及法制委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "司法及法制委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第7會期",
-                "司法及法制委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "司法及法制委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第8會期",
-                "司法及法制委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "司法及法制委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ]
         ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/71017.jpg",
@@ -1235,9 +1309,17 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00017&stage=7",
+            "委員簡傳": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legBiography.action?lgno=00017&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00017&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00017&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00017&stage=7",
+            "委員活動剪影": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/album\/albumClassList.action?lgno=00017&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00017&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00017&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00017&stage=7"
+        }
     },
     {
         "姓名": "李明星",
@@ -1295,7 +1377,7 @@
             ],
             [
                 "第7屆第8會期",
-                "外交及國防委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "外交及國防委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ]
         ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/71019.jpg",
@@ -1317,9 +1399,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00019&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00019&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00019&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00019&stage=7"
+        }
     },
     {
         "姓名": "李俊毅",
@@ -1387,9 +1472,18 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00020&stage=7",
+            "公聽會資料": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/public\/publicList.action?lgno=00020&stage=7",
+            "任內推動法案": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_bill\/billList.action?lgno=00020&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00020&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00020&stage=7",
+            "記者會": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/press_con\/pressConList.action?lgno=00020&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00020&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00020&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00020&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00020&stage=7"
+        }
     },
     {
         "姓名": "李復興",
@@ -1423,7 +1517,7 @@
             ],
             [
                 "第7屆第4會期",
-                "經濟委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經濟委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第5會期",
@@ -1435,11 +1529,11 @@
             ],
             [
                 "第7屆第7會期",
-                "經濟委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經濟委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第8會期",
-                "經濟委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經濟委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ]
         ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/61045.jpg",
@@ -1478,9 +1572,16 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00022&stage=7",
+            "質詢稿查詢": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/interrogate\/interList.action?lgno=00022&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00022&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00022&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00022&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00022&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00022&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00022&stage=7"
+        }
     },
     {
         "姓名": "李慶華",
@@ -1544,9 +1645,13 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00025&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00025&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00025&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00025&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00025&stage=7"
+        }
     },
     {
         "姓名": "李鴻鈞",
@@ -1584,7 +1689,7 @@
             ],
             [
                 "第7屆第6會期",
-                "交通委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "交通委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第7會期",
@@ -1622,9 +1727,13 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00026&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00026&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00026&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00026&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00026&stage=7"
+        }
     },
     {
         "姓名": "邱毅",
@@ -1698,9 +1807,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00038&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00038&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00038&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00038&stage=7"
+        }
     },
     {
         "姓名": "邱議瑩",
@@ -1726,7 +1838,7 @@
             ],
             [
                 "第7屆第4會期",
-                "內政委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "內政委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第5會期",
@@ -1746,7 +1858,7 @@
             ],
             [
                 "第7屆第7會期",
-                "內政委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "內政委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第8會期",
@@ -1772,9 +1884,13 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00040&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00040&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00040&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00040&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00040&stage=7"
+        }
     },
     {
         "姓名": "周守訓",
@@ -1796,11 +1912,11 @@
             ],
             [
                 "第7屆第3會期",
-                "外交及國防委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "外交及國防委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第4會期",
-                "外交及國防委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "外交及國防委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第5會期",
@@ -1848,9 +1964,18 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00027&stage=7",
+            "質詢稿查詢": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/interrogate\/interList.action?lgno=00027&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00027&stage=7",
+            "委員活動看版": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_act\/actList.action?lgno=00027&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00027&stage=7",
+            "記者會": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/press_con\/pressConList.action?lgno=00027&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00027&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00027&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00027&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00027&stage=7"
+        }
     },
     {
         "姓名": "林岱樺",
@@ -1895,9 +2020,11 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00127&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00127&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00127&stage=7"
+        }
     },
     {
         "姓名": "林建榮",
@@ -1919,7 +2046,7 @@
             ],
             [
                 "第7屆第3會期",
-                "交通委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "交通委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第3會期",
@@ -1987,9 +2114,14 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00030&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00030&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00030&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00030&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00030&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00030&stage=7"
+        }
     },
     {
         "姓名": "林明溱",
@@ -2064,9 +2196,13 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00029&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00029&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00029&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00029&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00029&stage=7"
+        }
     },
     {
         "姓名": "林郁方",
@@ -2084,7 +2220,7 @@
             ],
             [
                 "第7屆第1會期",
-                "外交及國防委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "外交及國防委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第2會期",
@@ -2092,7 +2228,7 @@
             ],
             [
                 "第7屆第2會期",
-                "外交及國防委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "外交及國防委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第3會期",
@@ -2165,9 +2301,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00032&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00032&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00032&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00032&stage=7"
+        }
     },
     {
         "姓名": "林炳坤",
@@ -2247,9 +2386,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00031&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00031&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00031&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00031&stage=7"
+        }
     },
     {
         "姓名": "林益世",
@@ -2352,9 +2494,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00033&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00033&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00033&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00033&stage=7"
+        }
     },
     {
         "姓名": "林淑芬",
@@ -2421,9 +2566,14 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00034&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00034&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00034&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00034&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00034&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00034&stage=7"
+        }
     },
     {
         "姓名": "林滄敏",
@@ -2449,7 +2599,7 @@
             ],
             [
                 "第7屆第3會期",
-                "經濟委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經濟委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第4會期",
@@ -2481,7 +2631,7 @@
             ],
             [
                 "第7屆第8會期",
-                "經濟委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經濟委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ]
         ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/61075.jpg",
@@ -2507,9 +2657,18 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00035&stage=7",
+            "公聽會資料": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/public\/publicList.action?lgno=00035&stage=7",
+            "任內推動法案": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_bill\/billList.action?lgno=00035&stage=7",
+            "質詢稿查詢": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/interrogate\/interList.action?lgno=00035&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00035&stage=7",
+            "委員活動看版": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_act\/actList.action?lgno=00035&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00035&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00035&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00035&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00035&stage=7"
+        }
     },
     {
         "姓名": "林德福",
@@ -2535,7 +2694,7 @@
             ],
             [
                 "第7屆第4會期",
-                "財政委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "財政委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第5會期",
@@ -2578,9 +2737,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00036&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00036&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00036&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00036&stage=7"
+        }
     },
     {
         "姓名": "林鴻池",
@@ -2669,9 +2831,14 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00037&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00037&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00037&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00037&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00037&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00037&stage=7"
+        }
     },
     {
         "姓名": "侯彩鳳",
@@ -2697,7 +2864,7 @@
             ],
             [
                 "第7屆第4會期",
-                "社會福利及衛生環境委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "社會福利及衛生環境委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第5會期",
@@ -2705,7 +2872,7 @@
             ],
             [
                 "第7屆第5會期",
-                "社會福利及衛生環境委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "社會福利及衛生環境委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第6會期",
@@ -2751,9 +2918,15 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00041&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00041&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00041&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00041&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00041&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00041&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00041&stage=7"
+        }
     },
     {
         "姓名": "帥化民",
@@ -2775,7 +2948,7 @@
             ],
             [
                 "第7屆第3會期",
-                "外交及國防委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "外交及國防委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第3會期",
@@ -2803,7 +2976,7 @@
             ],
             [
                 "第7屆第7會期",
-                "外交及國防委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "外交及國防委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第8會期",
@@ -2811,7 +2984,7 @@
             ],
             [
                 "第7屆第8會期",
-                "外交及國防委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "外交及國防委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ]
         ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/61086.jpg",
@@ -2836,9 +3009,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00042&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00042&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00042&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00042&stage=7"
+        }
     },
     {
         "姓名": "柯建銘",
@@ -2911,9 +3087,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00043&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00043&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00043&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00043&stage=7"
+        }
     },
     {
         "姓名": "洪秀柱",
@@ -2939,7 +3118,7 @@
             ],
             [
                 "第7屆第4會期",
-                "教育及文化委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "教育及文化委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第5會期",
@@ -2979,9 +3158,15 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00044&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00044&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00044&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00044&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00044&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00044&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00044&stage=7"
+        }
     },
     {
         "姓名": "紀國棟",
@@ -3048,9 +3233,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00045&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00045&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00045&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00045&stage=7"
+        }
     },
     {
         "姓名": "孫大千",
@@ -3113,9 +3301,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00046&stage=7",
+            "委員政績": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/achievement\/achiList.action?lgno=00046&stage=7",
+            "公聽會資料": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/public\/publicList.action?lgno=00046&stage=7",
+            "任內推動法案": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_bill\/billList.action?lgno=00046&stage=7",
+            "質詢稿查詢": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/interrogate\/interList.action?lgno=00046&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00046&stage=7",
+            "委員活動看版": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_act\/actList.action?lgno=00046&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00046&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00046&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00046&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00046&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00046&stage=7"
+        }
     },
     {
         "姓名": "徐少萍",
@@ -3133,7 +3332,7 @@
             ],
             [
                 "第7屆第1會期",
-                "衛生環境及勞工委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "衛生環境及勞工委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第2會期",
@@ -3141,7 +3340,7 @@
             ],
             [
                 "第7屆第2會期",
-                "衛生環境及勞工委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "衛生環境及勞工委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第3會期",
@@ -3181,7 +3380,7 @@
             ],
             [
                 "第7屆第8會期",
-                "社會福利及衛生環境委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "社會福利及衛生環境委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ]
         ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/71048.jpg",
@@ -3204,9 +3403,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00048&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00048&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00048&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00048&stage=7"
+        }
     },
     {
         "姓名": "徐耀昌",
@@ -3232,7 +3434,7 @@
             ],
             [
                 "第7屆第4會期",
-                "交通委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "交通委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第5會期",
@@ -3248,7 +3450,7 @@
             ],
             [
                 "第7屆第7會期",
-                "經濟委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經濟委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第8會期",
@@ -3286,9 +3488,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00049&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00049&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00049&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00049&stage=7"
+        }
     },
     {
         "姓名": "涂醒哲",
@@ -3373,9 +3578,17 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00054&stage=7",
+            "委員簡傳": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legBiography.action?lgno=00054&stage=7",
+            "任內推動法案": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_bill\/billList.action?lgno=00054&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00054&stage=7",
+            "委員活動看版": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_act\/actList.action?lgno=00054&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00054&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00054&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00054&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00054&stage=7"
+        }
     },
     {
         "姓名": "翁金珠",
@@ -3417,11 +3630,11 @@
             ],
             [
                 "第7屆第6會期",
-                "紀律委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "紀律委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第6會期",
-                "經濟委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經濟委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第7會期",
@@ -3429,7 +3642,7 @@
             ],
             [
                 "第7屆第8會期",
-                "教育及文化委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "教育及文化委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ]
         ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/71050.jpg",
@@ -3460,9 +3673,18 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00050&stage=7",
+            "公聽會資料": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/public\/publicList.action?lgno=00050&stage=7",
+            "質詢稿查詢": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/interrogate\/interList.action?lgno=00050&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00050&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00050&stage=7",
+            "記者會": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/press_con\/pressConList.action?lgno=00050&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00050&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00050&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00050&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00050&stage=7"
+        }
     },
     {
         "姓名": "翁重鈞",
@@ -3480,11 +3702,11 @@
             ],
             [
                 "第7屆第1會期",
-                "經濟委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經濟委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第2會期",
-                "經濟委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經濟委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第2會期",
@@ -3508,7 +3730,7 @@
             ],
             [
                 "第7屆第7會期",
-                "財政委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "財政委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第8會期",
@@ -3542,9 +3764,13 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00051&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00051&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00051&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00051&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00051&stage=7"
+        }
     },
     {
         "姓名": "郭玟成",
@@ -3618,9 +3844,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00061&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00061&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00061&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00061&stage=7"
+        }
     },
     {
         "姓名": "郭素春",
@@ -3650,7 +3879,7 @@
             ],
             [
                 "第7屆第4會期",
-                "教育及文化委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "教育及文化委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第4會期",
@@ -3658,7 +3887,7 @@
             ],
             [
                 "第7屆第5會期",
-                "經費稽核委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經費稽核委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第5會期",
@@ -3670,11 +3899,11 @@
             ],
             [
                 "第7屆第6會期",
-                "教育及文化委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "教育及文化委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第6會期",
-                "紀律委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "紀律委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第7會期",
@@ -3719,9 +3948,13 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00062&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00062&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00062&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00062&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00062&stage=7"
+        }
     },
     {
         "姓名": "郭榮宗",
@@ -3739,7 +3972,7 @@
             ],
             [
                 "第7屆第5會期",
-                "經費稽核委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經費稽核委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第5會期",
@@ -3784,9 +4017,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00120&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00120&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00120&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00120&stage=7"
+        }
     },
     {
         "姓名": "陳明文",
@@ -3834,9 +4070,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00124&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00124&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00124&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00124&stage=7"
+        }
     },
     {
         "姓名": "陳杰",
@@ -3858,7 +4097,7 @@
             ],
             [
                 "第7屆第3會期",
-                "財政委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "財政委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第4會期",
@@ -3874,7 +4113,7 @@
             ],
             [
                 "第7屆第6會期",
-                "司法及法制委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "司法及法制委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第7會期",
@@ -3908,9 +4147,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00064&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00064&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00064&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00064&stage=7"
+        }
     },
     {
         "姓名": "陳亭妃",
@@ -3987,9 +4229,19 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00065&stage=7",
+            "公聽會資料": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/public\/publicList.action?lgno=00065&stage=7",
+            "質詢稿查詢": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/interrogate\/interList.action?lgno=00065&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00065&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00065&stage=7",
+            "記者會": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/press_con\/pressConList.action?lgno=00065&stage=7",
+            "公告欄": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/defined\/definedList.action?lgno=00065&stage=7&num=1491",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00065&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00065&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00065&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00065&stage=7"
+        }
     },
     {
         "姓名": "陳根德",
@@ -4007,11 +4259,11 @@
             ],
             [
                 "第7屆第1會期",
-                "交通委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "交通委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第2會期",
-                "交通委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "交通委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第2會期",
@@ -4035,7 +4287,7 @@
             ],
             [
                 "第7屆第7會期",
-                "交通委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "交通委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第8會期",
@@ -4066,9 +4318,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00066&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00066&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00066&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00066&stage=7"
+        }
     },
     {
         "姓名": "陳淑慧",
@@ -4126,7 +4381,7 @@
             ],
             [
                 "第7屆第8會期",
-                "教育及文化委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "教育及文化委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ]
         ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/71114.jpg",
@@ -4150,9 +4405,15 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00114&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00114&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00114&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00114&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00114&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00114&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00114&stage=7"
+        }
     },
     {
         "姓名": "陳福海",
@@ -4178,7 +4439,7 @@
             ],
             [
                 "第7屆第3會期",
-                "經費稽核委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經費稽核委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第4會期",
@@ -4237,9 +4498,18 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00069&stage=7",
+            "任內推動法案": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_bill\/billList.action?lgno=00069&stage=7",
+            "質詢稿查詢": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/interrogate\/interList.action?lgno=00069&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00069&stage=7",
+            "委員活動看版": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_act\/actList.action?lgno=00069&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00069&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00069&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00069&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00069&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00069&stage=7"
+        }
     },
     {
         "姓名": "陳節如",
@@ -4322,9 +4592,18 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00068&stage=7",
+            "委員政績": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/achievement\/achiList.action?lgno=00068&stage=7",
+            "公聽會資料": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/public\/publicList.action?lgno=00068&stage=7",
+            "質詢稿查詢": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/interrogate\/interList.action?lgno=00068&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00068&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00068&stage=7",
+            "記者會": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/press_con\/pressConList.action?lgno=00068&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00068&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00068&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00068&stage=7"
+        }
     },
     {
         "姓名": "陳瑩",
@@ -4354,7 +4633,7 @@
             ],
             [
                 "第7屆第4會期",
-                "社會福利及衛生環境委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "社會福利及衛生環境委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第4會期",
@@ -4366,11 +4645,11 @@
             ],
             [
                 "第7屆第6會期",
-                "紀律委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "紀律委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第6會期",
-                "外交及國防委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "外交及國防委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第7會期",
@@ -4403,9 +4682,19 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00070&stage=7",
+            "公聽會資料": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/public\/publicList.action?lgno=00070&stage=7",
+            "任內推動法案": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_bill\/billList.action?lgno=00070&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00070&stage=7",
+            "委員活動看版": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_act\/actList.action?lgno=00070&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00070&stage=7",
+            "網路論壇": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_forum\/forumClassList.action?lgno=00070&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00070&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00070&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00070&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00070&stage=7"
+        }
     },
     {
         "姓名": "馬文君",
@@ -4458,9 +4747,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00119&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00119&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00119&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00119&stage=7"
+        }
     },
     {
         "姓名": "高志鵬",
@@ -4498,7 +4790,7 @@
             ],
             [
                 "第7屆第6會期",
-                "財政委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "財政委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第7會期",
@@ -4538,9 +4830,13 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00052&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00052&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00052&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00052&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00052&stage=7"
+        }
     },
     {
         "姓名": "高金素梅",
@@ -4590,11 +4886,11 @@
             ],
             [
                 "第7屆第6會期",
-                "紀律委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "紀律委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第6會期",
-                "內政委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "內政委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第7會期",
@@ -4628,9 +4924,14 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00053&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00053&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00053&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00053&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00053&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00053&stage=7"
+        }
     },
     {
         "姓名": "張嘉郡",
@@ -4699,9 +5000,15 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00056&stage=7",
+            "質詢稿查詢": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/interrogate\/interList.action?lgno=00056&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00056&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00056&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00056&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00056&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00056&stage=7"
+        }
     },
     {
         "姓名": "張慶忠",
@@ -4723,11 +5030,11 @@
             ],
             [
                 "第7屆第3會期",
-                "內政委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "內政委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第4會期",
-                "內政委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "內政委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第5會期",
@@ -4735,7 +5042,7 @@
             ],
             [
                 "第7屆第5會期",
-                "內政委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "內政委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第6會期",
@@ -4747,7 +5054,7 @@
             ],
             [
                 "第7屆第8會期",
-                "內政委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "內政委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ]
         ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/71058.jpg",
@@ -4779,9 +5086,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00058&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00058&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00058&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00058&stage=7"
+        }
     },
     {
         "姓名": "張顯耀",
@@ -4815,7 +5125,7 @@
             ],
             [
                 "第7屆第4會期",
-                "外交及國防委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "外交及國防委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第5會期",
@@ -4853,9 +5163,13 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00059&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00059&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00059&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00059&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00059&stage=7"
+        }
     },
     {
         "姓名": "曹爾忠",
@@ -4877,7 +5191,7 @@
             ],
             [
                 "第7屆第3會期",
-                "交通委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "交通委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第4會期",
@@ -4885,7 +5199,7 @@
             ],
             [
                 "第7屆第5會期",
-                "經費稽核委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經費稽核委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第5會期",
@@ -4897,11 +5211,11 @@
             ],
             [
                 "第7屆第6會期",
-                "交通委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "交通委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第6會期",
-                "紀律委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "紀律委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第7會期",
@@ -4909,15 +5223,15 @@
             ],
             [
                 "第7屆第7會期",
-                "經費稽核委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經費稽核委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第8會期",
-                "交通委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "交通委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第8會期",
-                "經費稽核委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經費稽核委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ]
         ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/71060.jpg",
@@ -4950,9 +5264,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00060&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00060&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00060&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00060&stage=7"
+        }
     },
     {
         "姓名": "許添財",
@@ -5000,9 +5317,16 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00128&stage=7",
+            "委員政績": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/achievement\/achiList.action?lgno=00128&stage=7",
+            "任內推動法案": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_bill\/billList.action?lgno=00128&stage=7",
+            "質詢稿查詢": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/interrogate\/interList.action?lgno=00128&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00128&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00128&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00128&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00128&stage=7"
+        }
     },
     {
         "姓名": "許舒博",
@@ -5071,9 +5395,11 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00118&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00118&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00118&stage=7"
+        }
     },
     {
         "姓名": "彭紹瑾",
@@ -5125,9 +5451,19 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00125&stage=7",
+            "任內推動法案": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_bill\/billList.action?lgno=00125&stage=7",
+            "質詢稿查詢": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/interrogate\/interList.action?lgno=00125&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00125&stage=7",
+            "委員活動看版": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_act\/actList.action?lgno=00125&stage=7",
+            "委員小故事": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/defined\/definedList.action?lgno=00125&stage=7&num=1351",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00125&stage=7",
+            "委員活動剪影": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/album\/albumClassList.action?lgno=00125&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00125&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00125&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00125&stage=7"
+        }
     },
     {
         "姓名": "曾永權",
@@ -5194,9 +5530,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00072&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00072&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00072&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00072&stage=7"
+        }
     },
     {
         "姓名": "葉宜津",
@@ -5263,9 +5602,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00083&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00083&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00083&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00083&stage=7"
+        }
     },
     {
         "姓名": "費鴻泰",
@@ -5279,7 +5621,7 @@
         "委員會": [
             [
                 "第7屆第1會期",
-                "程序委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "程序委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第1會期",
@@ -5299,7 +5641,7 @@
             ],
             [
                 "第7屆第2會期",
-                "程序委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "程序委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第3會期",
@@ -5307,15 +5649,15 @@
             ],
             [
                 "第7屆第3會期",
-                "程序委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "程序委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第4會期",
-                "財政委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "財政委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第4會期",
-                "程序委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "程序委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第5會期",
@@ -5323,7 +5665,7 @@
             ],
             [
                 "第7屆第5會期",
-                "程序委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "程序委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第6會期",
@@ -5331,27 +5673,27 @@
             ],
             [
                 "第7屆第6會期",
-                "程序委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "程序委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第7會期",
-                "程序委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "程序委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第7會期",
-                "經費稽核委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經費稽核委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第7會期",
-                "財政委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "財政委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第8會期",
-                "程序委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "程序委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第8會期",
-                "經費稽核委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經費稽核委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第8會期",
@@ -5384,9 +5726,15 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00073&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00073&stage=7",
+            "委員活動看版": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_act\/actList.action?lgno=00073&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00073&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00073&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00073&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00073&stage=7"
+        }
     },
     {
         "姓名": "黃仁杼",
@@ -5445,9 +5793,13 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00126&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00126&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00126&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00126&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00126&stage=7"
+        }
     },
     {
         "姓名": "黃志雄",
@@ -5477,7 +5829,7 @@
             ],
             [
                 "第7屆第3會期",
-                "教育及文化委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "教育及文化委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第4會期",
@@ -5545,9 +5897,19 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00074&stage=7",
+            "委員政績": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/achievement\/achiList.action?lgno=00074&stage=7",
+            "任內推動法案": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_bill\/billList.action?lgno=00074&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00074&stage=7",
+            "委員活動看版": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_act\/actList.action?lgno=00074&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00074&stage=7",
+            "記者會": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/press_con\/pressConList.action?lgno=00074&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00074&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00074&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00074&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00074&stage=7"
+        }
     },
     {
         "姓名": "黃昭順",
@@ -5561,19 +5923,19 @@
         "委員會": [
             [
                 "第7屆第1會期",
-                "紀律委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "紀律委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第1會期",
-                "交通委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "交通委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第2會期",
-                "交通委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "交通委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第2會期",
-                "紀律委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "紀律委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第3會期",
@@ -5597,7 +5959,7 @@
             ],
             [
                 "第7屆第8會期",
-                "內政委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "內政委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ]
         ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/71075.jpg",
@@ -5627,9 +5989,14 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00075&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00075&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00075&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00075&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00075&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00075&stage=7"
+        }
     },
     {
         "姓名": "黃偉哲",
@@ -5647,7 +6014,7 @@
             ],
             [
                 "第7屆第1會期",
-                "經費稽核委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經費稽核委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第2會期",
@@ -5655,11 +6022,11 @@
             ],
             [
                 "第7屆第2會期",
-                "經費稽核委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經費稽核委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第3會期",
-                "經費稽核委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經費稽核委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第3會期",
@@ -5687,7 +6054,7 @@
             ],
             [
                 "第7屆第7會期",
-                "經費稽核委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經費稽核委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第8會期",
@@ -5695,7 +6062,7 @@
             ],
             [
                 "第7屆第8會期",
-                "經費稽核委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經費稽核委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ]
         ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/71076.jpg",
@@ -5720,9 +6087,15 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00076&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00076&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00076&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00076&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00076&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00076&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00076&stage=7"
+        }
     },
     {
         "姓名": "黃淑英",
@@ -5752,7 +6125,7 @@
             ],
             [
                 "第7屆第3會期",
-                "社會福利及衛生環境委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "社會福利及衛生環境委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第4會期",
@@ -5802,9 +6175,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00078&stage=7",
+            "委員政績": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/achievement\/achiList.action?lgno=00078&stage=7",
+            "公聽會資料": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/public\/publicList.action?lgno=00078&stage=7",
+            "任內推動法案": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_bill\/billList.action?lgno=00078&stage=7",
+            "質詢稿查詢": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/interrogate\/interList.action?lgno=00078&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00078&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00078&stage=7",
+            "記者會": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/press_con\/pressConList.action?lgno=00078&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00078&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00078&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00078&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00078&stage=7"
+        }
     },
     {
         "姓名": "黃義交",
@@ -5873,9 +6257,14 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00079&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00079&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00079&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00079&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00079&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00079&stage=7"
+        }
     },
     {
         "姓名": "楊仁福",
@@ -5909,7 +6298,7 @@
             ],
             [
                 "第7屆第5會期",
-                "交通委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "交通委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第6會期",
@@ -5944,9 +6333,15 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00080&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00080&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00080&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00080&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00080&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00080&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00080&stage=7"
+        }
     },
     {
         "姓名": "楊瓊瓔",
@@ -5992,7 +6387,7 @@
             ],
             [
                 "第7屆第6會期",
-                "教育及文化委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "教育及文化委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第7會期",
@@ -6031,9 +6426,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00081&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00081&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00081&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00081&stage=7"
+        }
     },
     {
         "姓名": "楊麗環",
@@ -6059,15 +6457,15 @@
             ],
             [
                 "第7屆第4會期",
-                "交通委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "交通委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第5會期",
-                "紀律委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "紀律委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第5會期",
-                "社會福利及衛生環境委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "社會福利及衛生環境委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第5會期",
@@ -6118,9 +6516,15 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00082&stage=7",
+            "公聽會資料": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/public\/publicList.action?lgno=00082&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00082&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00082&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00082&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00082&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00082&stage=7"
+        }
     },
     {
         "姓名": "廖國棟",
@@ -6142,7 +6546,7 @@
             ],
             [
                 "第7屆第3會期",
-                "社會福利及衛生環境委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "社會福利及衛生環境委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第4會期",
@@ -6197,9 +6601,13 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00085&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00085&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00085&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00085&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00085&stage=7"
+        }
     },
     {
         "姓名": "廖婉汝",
@@ -6237,7 +6645,7 @@
             ],
             [
                 "第7屆第5會期",
-                "紀律委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "紀律委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第5會期",
@@ -6245,7 +6653,7 @@
             ],
             [
                 "第7屆第5會期",
-                "外交及國防委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "外交及國防委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第6會期",
@@ -6253,7 +6661,7 @@
             ],
             [
                 "第7屆第6會期",
-                "外交及國防委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "外交及國防委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第6會期",
@@ -6261,7 +6669,7 @@
             ],
             [
                 "第7屆第7會期",
-                "外交及國防委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "外交及國防委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第7會期",
@@ -6298,9 +6706,14 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00086&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00086&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00086&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00086&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00086&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00086&stage=7"
+        }
     },
     {
         "姓名": "管碧玲",
@@ -6338,7 +6751,7 @@
             ],
             [
                 "第7屆第7會期",
-                "教育及文化委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "教育及文化委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第8會期",
@@ -6372,9 +6785,16 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00087&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00087&stage=7",
+            "委員活動看版": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_act\/actList.action?lgno=00087&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00087&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00087&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00087&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00087&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00087&stage=7"
+        }
     },
     {
         "姓名": "蔡正元",
@@ -6408,11 +6828,11 @@
             ],
             [
                 "第7屆第6會期",
-                "紀律委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "紀律委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第6會期",
-                "財政委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "財政委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第7會期",
@@ -6454,9 +6874,13 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00094&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00094&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00094&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00094&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00094&stage=7"
+        }
     },
     {
         "姓名": "蔡同榮",
@@ -6531,9 +6955,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00095&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00095&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00095&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00095&stage=7"
+        }
     },
     {
         "姓名": "蔡煌瑯",
@@ -6607,9 +7034,14 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00096&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00096&stage=7",
+            "網路論壇": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_forum\/forumClassList.action?lgno=00096&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00096&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00096&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00096&stage=7"
+        }
     },
     {
         "姓名": "蔡錦隆",
@@ -6685,9 +7117,15 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00097&stage=7",
+            "任內推動法案": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_bill\/billList.action?lgno=00097&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00097&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00097&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00097&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00097&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00097&stage=7"
+        }
     },
     {
         "姓名": "蔣乃辛",
@@ -6756,9 +7194,15 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00116&stage=7",
+            "委員簡傳": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legBiography.action?lgno=00116&stage=7",
+            "任內推動法案": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_bill\/billList.action?lgno=00116&stage=7",
+            "質詢稿查詢": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/interrogate\/interList.action?lgno=00116&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00116&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00116&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00116&stage=7"
+        }
     },
     {
         "姓名": "蔣孝嚴",
@@ -6829,9 +7273,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00093&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00093&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00093&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00093&stage=7"
+        }
     },
     {
         "姓名": "趙麗雲",
@@ -6877,11 +7324,11 @@
             ],
             [
                 "第7屆第5會期",
-                "紀律委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "紀律委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第5會期",
-                "教育及文化委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "教育及文化委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第6會期",
@@ -6934,9 +7381,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00088&stage=7",
+            "委員簡傳": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legBiography.action?lgno=00088&stage=7",
+            "委員政績": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/achievement\/achiList.action?lgno=00088&stage=7",
+            "公聽會資料": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/public\/publicList.action?lgno=00088&stage=7",
+            "任內推動法案": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_bill\/billList.action?lgno=00088&stage=7",
+            "質詢稿查詢": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/interrogate\/interList.action?lgno=00088&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00088&stage=7",
+            "委員活動看版": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_act\/actList.action?lgno=00088&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00088&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00088&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00088&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00088&stage=7"
+        }
     },
     {
         "姓名": "鄭汝芬",
@@ -6978,11 +7436,11 @@
             ],
             [
                 "第7屆第6會期",
-                "紀律委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "紀律委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第6會期",
-                "社會福利及衛生環境委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "社會福利及衛生環境委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第7會期",
@@ -7016,9 +7474,17 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00098&stage=7",
+            "任內推動法案": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_bill\/billList.action?lgno=00098&stage=7",
+            "質詢稿查詢": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/interrogate\/interList.action?lgno=00098&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00098&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00098&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00098&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00098&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00098&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00098&stage=7"
+        }
     },
     {
         "姓名": "鄭金玲",
@@ -7036,7 +7502,7 @@
             ],
             [
                 "第7屆第1會期",
-                "經費稽核委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經費稽核委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第2會期",
@@ -7044,11 +7510,11 @@
             ],
             [
                 "第7屆第2會期",
-                "經費稽核委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經費稽核委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第3會期",
-                "教育及文化委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "教育及文化委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第3會期",
@@ -7076,7 +7542,7 @@
             ],
             [
                 "第7屆第7會期",
-                "教育及文化委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "教育及文化委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第8會期",
@@ -7109,9 +7575,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00099&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00099&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00099&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00099&stage=7"
+        }
     },
     {
         "姓名": "鄭麗文",
@@ -7193,9 +7662,13 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00100&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00100&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00100&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00100&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00100&stage=7"
+        }
     },
     {
         "姓名": "劉建國",
@@ -7229,15 +7702,15 @@
             ],
             [
                 "第7屆第6會期",
-                "社會福利及衛生環境委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "社會福利及衛生環境委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第7會期",
-                "社會福利及衛生環境委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "社會福利及衛生環境委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第8會期",
-                "社會福利及衛生環境委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "社會福利及衛生環境委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ]
         ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/71117.jpg",
@@ -7268,9 +7741,18 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00117&stage=7",
+            "公聽會資料": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/public\/publicList.action?lgno=00117&stage=7",
+            "任內推動法案": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_bill\/billList.action?lgno=00117&stage=7",
+            "質詢稿查詢": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/interrogate\/interList.action?lgno=00117&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00117&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00117&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00117&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00117&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00117&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00117&stage=7"
+        }
     },
     {
         "姓名": "劉盛良",
@@ -7284,19 +7766,19 @@
         "委員會": [
             [
                 "第7屆第1會期",
-                "紀律委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "紀律委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第1會期",
-                "外交及國防委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "外交及國防委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第2會期",
-                "紀律委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "紀律委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第2會期",
-                "外交及國防委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "外交及國防委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第3會期",
@@ -7320,7 +7802,7 @@
             ],
             [
                 "第7屆第5會期",
-                "外交及國防委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "外交及國防委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第6會期",
@@ -7355,9 +7837,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00089&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00089&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00089&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00089&stage=7"
+        }
     },
     {
         "姓名": "劉銓忠",
@@ -7436,9 +7921,16 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00090&stage=7",
+            "委員政績": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/achievement\/achiList.action?lgno=00090&stage=7",
+            "任內推動法案": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_bill\/billList.action?lgno=00090&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00090&stage=7",
+            "委員活動看版": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_act\/actList.action?lgno=00090&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00090&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00090&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00090&stage=7"
+        }
     },
     {
         "姓名": "潘孟安",
@@ -7507,9 +7999,18 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00091&stage=7",
+            "公聽會資料": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/public\/publicList.action?lgno=00091&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00091&stage=7",
+            "委員活動看版": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_act\/actList.action?lgno=00091&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00091&stage=7",
+            "記者會": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/press_con\/pressConList.action?lgno=00091&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00091&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00091&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00091&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00091&stage=7"
+        }
     },
     {
         "姓名": "潘維剛",
@@ -7531,11 +8032,11 @@
             ],
             [
                 "第7屆第3會期",
-                "司法及法制委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "司法及法制委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第4會期",
-                "司法及法制委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "司法及法制委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第5會期",
@@ -7555,7 +8056,7 @@
             ],
             [
                 "第7屆第7會期",
-                "司法及法制委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "司法及法制委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第8會期",
@@ -7584,9 +8085,14 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00092&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00092&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00092&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00092&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00092&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00092&stage=7"
+        }
     },
     {
         "姓名": "盧秀燕",
@@ -7604,11 +8110,11 @@
             ],
             [
                 "第7屆第1會期",
-                "財政委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "財政委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第2會期",
-                "財政委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "財政委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第2會期",
@@ -7662,9 +8168,17 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00101&stage=7",
+            "公聽會資料": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/public\/publicList.action?lgno=00101&stage=7",
+            "質詢稿查詢": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/interrogate\/interList.action?lgno=00101&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00101&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00101&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00101&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00101&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00101&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00101&stage=7"
+        }
     },
     {
         "姓名": "盧嘉辰",
@@ -7736,9 +8250,15 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00102&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00102&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00102&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00102&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00102&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00102&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00102&stage=7"
+        }
     },
     {
         "姓名": "蕭景田",
@@ -7784,7 +8304,7 @@
             ],
             [
                 "第7屆第6會期",
-                "經濟委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經濟委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第7會期",
@@ -7822,9 +8342,14 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00103&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00103&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00103&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00103&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00103&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00103&stage=7"
+        }
     },
     {
         "姓名": "薛凌",
@@ -7904,9 +8429,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00106&stage=7",
+            "委員政績": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/achievement\/achiList.action?lgno=00106&stage=7",
+            "任內推動法案": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_bill\/billList.action?lgno=00106&stage=7",
+            "質詢稿查詢": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/interrogate\/interList.action?lgno=00106&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00106&stage=7",
+            "委員活動看版": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_act\/actList.action?lgno=00106&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00106&stage=7",
+            "網路論壇": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_forum\/forumClassList.action?lgno=00106&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00106&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00106&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00106&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00106&stage=7"
+        }
     },
     {
         "姓名": "賴士葆",
@@ -7920,7 +8456,7 @@
         "委員會": [
             [
                 "第7屆第1會期",
-                "程序委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "程序委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第1會期",
@@ -7932,19 +8468,19 @@
             ],
             [
                 "第7屆第2會期",
-                "程序委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "程序委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第3會期",
-                "程序委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "程序委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第3會期",
-                "財政委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "財政委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第4會期",
-                "程序委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "程序委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第4會期",
@@ -7956,7 +8492,7 @@
             ],
             [
                 "第7屆第5會期",
-                "程序委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "程序委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第6會期",
@@ -7964,11 +8500,11 @@
             ],
             [
                 "第7屆第6會期",
-                "程序委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "程序委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第7會期",
-                "程序委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "程序委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第7會期",
@@ -7976,11 +8512,11 @@
             ],
             [
                 "第7屆第8會期",
-                "程序委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "程序委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第8會期",
-                "財政委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "財政委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ]
         ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/61207.jpg",
@@ -8007,9 +8543,14 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00104&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00104&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00104&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00104&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00104&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00104&stage=7"
+        }
     },
     {
         "姓名": "賴坤成",
@@ -8072,9 +8613,14 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00121&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00121&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00121&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00121&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00121&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00121&stage=7"
+        }
     },
     {
         "姓名": "謝國樑",
@@ -8096,11 +8642,11 @@
             ],
             [
                 "第7屆第1會期",
-                "司法及法制委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "司法及法制委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第2會期",
-                "司法及法制委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "司法及法制委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第2會期",
@@ -8120,11 +8666,11 @@
             ],
             [
                 "第7屆第5會期",
-                "紀律委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "紀律委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第5會期",
-                "司法及法制委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "司法及法制委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第6會期",
@@ -8144,7 +8690,7 @@
             ],
             [
                 "第7屆第8會期",
-                "司法及法制委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "司法及法制委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ]
         ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/71107.jpg",
@@ -8173,9 +8719,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00107&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00107&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00107&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00107&stage=7"
+        }
     },
     {
         "姓名": "鍾紹和",
@@ -8189,19 +8738,19 @@
         "委員會": [
             [
                 "第7屆第1會期",
-                "紀律委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "紀律委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第1會期",
-                "衛生環境及勞工委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "衛生環境及勞工委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第2會期",
-                "紀律委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "紀律委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第2會期",
-                "衛生環境及勞工委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "衛生環境及勞工委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第3會期",
@@ -8213,11 +8762,11 @@
             ],
             [
                 "第7屆第5會期",
-                "紀律委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "紀律委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第5會期",
-                "經濟委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經濟委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第6會期",
@@ -8256,9 +8805,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00108&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00108&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00108&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00108&stage=7"
+        }
     },
     {
         "姓名": "簡東明",
@@ -8334,9 +8886,13 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00109&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00109&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00109&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00109&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00109&stage=7"
+        }
     },
     {
         "姓名": "顏清標",
@@ -8354,7 +8910,7 @@
             ],
             [
                 "第7屆第1會期",
-                "經費稽核委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經費稽核委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第2會期",
@@ -8362,7 +8918,7 @@
             ],
             [
                 "第7屆第2會期",
-                "經費稽核委員會\r\n                          \r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "經費稽核委員會\r\n\t\t\t\t\t                         \r\n\t\t\t\t\t                  \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第3會期",
@@ -8429,9 +8985,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00110&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00110&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00110&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00110&stage=7"
+        }
     },
     {
         "姓名": "羅明才",
@@ -8473,7 +9032,7 @@
             ],
             [
                 "第7屆第5會期",
-                "財政委員會\r\n                                      \t\t\r\n                                      \t\t \r\n                                      \t\t\r\n                                      \t\t(召集委員)"
+                "財政委員會\r\n                                      \t\t \r\n                                      \t\t(召集委員)"
             ],
             [
                 "第7屆第6會期",
@@ -8513,9 +9072,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00111&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00111&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00111&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00111&stage=7"
+        }
     },
     {
         "姓名": "羅淑蕾",
@@ -8604,9 +9166,13 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00112&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00112&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00112&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00112&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00112&stage=7"
+        }
     },
     {
         "姓名": "蘇震清",
@@ -8672,8 +9238,18 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00113&stage=7",
+            "委員簡傳": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legBiography.action?lgno=00113&stage=7",
+            "公聽會資料": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/public\/publicList.action?lgno=00113&stage=7",
+            "質詢稿查詢": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/interrogate\/interList.action?lgno=00113&stage=7",
+            "最新消息": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/leg_news\/newsList.action?lgno=00113&stage=7",
+            "新聞稿": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/dispatch\/dispatchList.action?lgno=00113&stage=7",
+            "記者會": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/press_con\/pressConList.action?lgno=00113&stage=7",
+            "影音資料查詢": "http:\/\/media.ly.gov.tw\/allvedios.jsp?lgno=00113&stage=7",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00113&stage=7",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00113&stage=7",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00113&stage=7"
+        }
     }
 ]
