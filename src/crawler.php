@@ -124,9 +124,11 @@ class Crawler
                     $person->{$name} = $rows;
                     continue;
                 }
-                foreach (explode('<br>', $this->innerHTML($persondoc, $ul_dom->getElementsByTagName('div')->item(0))) as $text) {
-                    if ('' !== trim($text)) {
-                        $rows[] = $text;
+                foreach ($ul_dom->getElementsByTagName('div') as $div_dom) {
+                    foreach (explode('<br>', $this->innerHTML($persondoc, $div_dom)) as $text) {
+                        if ('' !== trim($text)) {
+                            $rows[] = trim(strip_tags($text));
+                        }
                     }
                 }
                 $person->{$name} = $rows;
