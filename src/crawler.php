@@ -133,6 +133,18 @@ class Crawler
                 }
                 $person->{$name} = $rows;
             }
+
+            // 加上留言版和信箱
+            $links = new StdClass;
+            foreach ($this->findDomByCondition($persondoc, 'td', 'class', 'leg03_titbg06') as $td_dom) {
+                $a_doms = $td_dom->getElementsByTagName('a');
+                if ($a_doms->length != 1) {
+                    continue;
+                }
+                $a_dom = $a_doms->item(0);
+                $links->{$a_dom->nodeValue} = $this->getAbsoluteURL($link, $a_dom->getAttribute('href'));
+            }
+            $person->links = $links;
             $persons[] = $person;
         }
         echo json_encode($persons, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
