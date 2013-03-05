@@ -23,6 +23,16 @@ class Crawler
 
     }
 
+    public function getAbsoluteURL($source_url, $relative_url)
+    {
+        $url_parts = parse_url($relative_url);
+        if (array_key_exists('scheme', $url_parts)) {
+            return $relative_url;
+        }
+        $absolute = http_build_url($source_url, $url_parts, HTTP_URL_JOIN_PATH);
+        return $absolute;
+    }
+
     public function getBodyFromURL($url)
     {
         error_log($url);
