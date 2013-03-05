@@ -104,6 +104,7 @@ class Crawler
                 4 => '傳真',
                 5 => '通訊處',
             );
+            $skip_map = array('簡介');
 
             foreach ($map as $n) {
                 $person->{$n} = array();
@@ -111,6 +112,12 @@ class Crawler
 
             foreach ($ul_doms as $ul_dom) {
                 $name = strval($ul_dom->previousSibling->previousSibling->nodeValue);
+                if (!in_array($name, $map)) {
+                    if (!in_array($name, $skip_map)) {
+                        error_log($name);
+                    }
+                    continue;
+                }
 
                 $rows = array();
                 if ($ul_dom->getElementsByTagName('div')->length == 0) {
