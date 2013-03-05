@@ -4,16 +4,9 @@
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00001&stage=3",
         "英文姓名": "Ting, Shou-chung",
         "性別": "男",
-        "生日": "1954年09月01日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "台北市第一選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300001-1.jpg",
         "學歷": [
             "台大政治系學士",
@@ -51,24 +44,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00001&stage=3",
+            "委員簡傳": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legBiography.action?lgno=00001&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00001&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00001&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00001&stage=3"
+        }
     },
     {
         "姓名": "尤宏",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00002&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "高雄縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-000023-1.jpg",
         "學歷": [
             "溪埔國小",
@@ -95,25 +85,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00002&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00002&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00002&stage=3"
+        }
     },
     {
         "姓名": "巴燕．達魯",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00003&stage=3",
         "英文姓名": "PA YEN-TA LU",
         "性別": "男",
-        "生日": "1951年12月16日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "全國不分區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300003-1.jpg",
         "學歷": [
             "初中畢業。"
@@ -137,25 +122,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00003&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00003&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00003&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00003&stage=3"
+        }
     },
     {
         "姓名": "瓦歷斯．貝林",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00012&stage=3",
         "英文姓名": "WALIS,PELIN",
         "性別": "男",
-        "生日": "1952年08月08日",
         "黨籍": "無黨籍",
         "黨團": "民主聯盟",
         "選區": "山地原住民",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300012-1.jpg",
         "學歷": [
             "輔仁大學哲學系",
@@ -177,25 +158,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00012&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00012&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00012&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00012&stage=3"
+        }
     },
     {
         "姓名": "王天競",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00004&stage=3",
         "英文姓名": "Wang Tein-Ging",
         "性別": "男",
-        "生日": "1947年07月23日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "高雄市第二選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300004-1.jpg",
         "學歷": [
             "高雄市鹽埕國小",
@@ -225,23 +202,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00004&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00004&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00004&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00004&stage=3"
+        }
     },
     {
         "姓名": "王令麟",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00005&stage=3",
         "英文姓名": "Gary, L, Wang",
         "性別": "男",
-        "生日": "1955年02月23日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
-        "選區": "全國不分區",
-        "到職日期": "1996\/02\/01",
-        "委員會": [
-
-        ],
+        "選區": "全國不分區\r\n                                    \r\n                                      \r\n                                      \r\n                                     \t 到職日期：\r\n                                      1996\/02\/01",
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/31005.jpg",
         "學歷": [
             "美國聖若望大學榮譽商學博士",
@@ -274,25 +249,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00005&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00005&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00005&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00005&stage=3"
+        }
     },
     {
         "姓名": "王拓",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00007&stage=3",
         "英文姓名": "WANG-TUOH",
         "性別": "男",
-        "生日": "1944年01月09日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "全國不分區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300007-1.jpg",
         "學歷": [
             "基隆市八斗國小畢業",
@@ -318,25 +289,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00007&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00007&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00007&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00007&stage=3"
+        }
     },
     {
         "姓名": "王金平",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00008&stage=3",
         "英文姓名": "Wang Jin-pyng",
         "性別": "男",
-        "生日": "1941年03月17日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "高雄縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300008-1.jpg",
         "學歷": [
             "高雄縣路竹鄉大社國小畢業",
@@ -362,24 +329,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00008&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00008&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00008&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00008&stage=3"
+        }
     },
     {
         "姓名": "王素筠",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00009&stage=3",
-        "英文姓名": "null",
         "性別": "女",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "苗栗縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300009-1.jpg",
         "學歷": [
             "省立屏東女子高級中學畢業"
@@ -400,25 +363,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00009&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00009&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00009&stage=3"
+        }
     },
     {
         "姓名": "王雪峰",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00010&stage=3",
         "英文姓名": "Wang,Hsueh-Fung",
         "性別": "女",
-        "生日": "1964年08月26日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "台北市第二選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300010-1.jpg",
         "學歷": [
             "台大法律系畢業",
@@ -442,24 +400,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00010&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00010&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00010&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00010&stage=3"
+        }
     },
     {
         "姓名": "全文盛",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00013&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "山地原住民",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300013-1.jpg",
         "學歷": [
             "中山醫學院醫事技術科畢業"
@@ -479,25 +433,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00013&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00013&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00013&stage=3"
+        }
     },
     {
         "姓名": "朱星羽",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00014&stage=3",
         "英文姓名": "CHU,Hsin-Yu",
         "性別": "男",
-        "生日": "1956年12月22日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "高雄市第二選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300014-1.jpg",
         "學歷": [
             "正修工商專校工業管理科畢業"
@@ -523,24 +472,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00014&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00014&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00014&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00014&stage=3"
+        }
     },
     {
         "姓名": "朱高正",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00015&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "無黨籍",
         "黨團": "無",
         "選區": "高雄市第二選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300015-1.jpg",
         "學歷": [
             "國立台灣大學法律系法學組畢業",
@@ -565,25 +510,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00015&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00015&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00015&stage=3"
+        }
     },
     {
         "姓名": "朱惠良",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00016&stage=3",
         "英文姓名": "CHU,HUI-LIANG",
         "性別": "女",
-        "生日": "1950年12月16日",
         "黨籍": "新黨",
         "黨團": "新黨",
         "選區": "台北市第一選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300016-1.jpg",
         "學歷": [
             "美國普林斯頓大學藝術考古研究所",
@@ -606,25 +546,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00016&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00016&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00016&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00016&stage=3"
+        }
     },
     {
         "姓名": "朱鳳芝",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00017&stage=3",
         "英文姓名": "CHU,FONG-CHI",
         "性別": "女",
-        "生日": "1948年06月27日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "桃園縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300017-1.jpg",
         "學歷": [
             "美國諾普大學管理科學碩士",
@@ -659,24 +595,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00017&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00017&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00017&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00017&stage=3"
+        }
     },
     {
         "姓名": "余玲雅",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00032&stage=3",
-        "英文姓名": "null",
         "性別": "女",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "高雄縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300032-1.jpg",
         "學歷": [
             "高雄縣仕隆國小",
@@ -701,25 +633,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00032&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00032&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00032&stage=3"
+        }
     },
     {
         "姓名": "吳克清",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00030&stage=3",
         "英文姓名": "Wu,Ko-Ching",
         "性別": "男",
-        "生日": "1954年04月29日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "桃園縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300030-1.jpg",
         "學歷": [
             "民國66年淡江大學教育資料系畢業",
@@ -745,24 +672,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00030&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00030&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00030&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00030&stage=3"
+        }
     },
     {
         "姓名": "吳惠祖",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00031&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "僑選",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300031-1.jpg",
         "學歷": [
             "珠海大學中國歷史學系畢"
@@ -784,24 +707,19 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00031&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00031&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00031&stage=3"
+        }
     },
     {
         "姓名": "李文郎",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00020&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "僑選",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300020-1.jpg",
         "學歷": [
             "美國賓西法尼亞大學博士、碩士"
@@ -825,24 +743,19 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00020&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00020&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00020&stage=3"
+        }
     },
     {
         "姓名": "李必賢",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00022&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "高雄市第二選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300022-1.jpg",
         "學歷": [
             "日本大阪市立大學法律系畢"
@@ -869,25 +782,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00022&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00022&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00022&stage=3"
+        }
     },
     {
         "姓名": "李俊毅",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00023&stage=3",
         "英文姓名": "LEE,CHUN-YEE",
         "性別": "男",
-        "生日": "1959年03月20日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "台南縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300023-1.jpg",
         "學歷": [
             "國立政治大學法學碩士",
@@ -912,25 +820,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00023&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00023&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00023&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00023&stage=3"
+        }
     },
     {
         "姓名": "李鳴皋",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00025&stage=3",
         "英文姓名": "Li,Ming-Kao",
         "性別": "男",
-        "生日": "1932年11月22日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "全國不分區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300025-1.jpg",
         "學歷": [
             "海軍官校四十四年班畢業",
@@ -952,25 +856,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00025&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00025&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00025&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00025&stage=3"
+        }
     },
     {
         "姓名": "李慶華",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00026&stage=3",
         "英文姓名": "LEE CHING HUA",
         "性別": "男",
-        "生日": "1948年12月03日",
         "黨籍": "新黨",
         "黨團": "新黨",
         "選區": "台北市第一選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300026-1.jpg",
         "學歷": [
             "政治大學法律系學士",
@@ -991,25 +891,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00026&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00026&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00026&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00026&stage=3"
+        }
     },
     {
         "姓名": "李應元",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00027&stage=3",
         "英文姓名": "LEE,Ying-Yuan",
         "性別": "男",
-        "生日": "1953年03月16日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "台北縣第二選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300027-1.jpg",
         "學歷": [
             "台大公共衛生系學士",
@@ -1032,25 +928,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00027&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00027&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00027&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00027&stage=3"
+        }
     },
     {
         "姓名": "李顯榮",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00028&stage=3",
         "英文姓名": "LEE,SEN-ZONG",
         "性別": "男",
-        "生日": "1947年07月23日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "台北縣第二選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300028-1.jpg",
         "學歷": [
             "省立台南一中畢業",
@@ -1080,9 +972,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00028&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00028&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00028&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00028&stage=3"
+        }
     },
     {
         "姓名": "杜振榮",
@@ -1092,12 +987,6 @@
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "台南市",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000_3_00029_2f.jpg",
         "學歷": [
             "勝利國小",
@@ -1129,25 +1018,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00029&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00029&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00029&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00029&stage=3"
+        }
     },
     {
         "姓名": "沈富雄",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00018&stage=3",
         "英文姓名": "SHEN,FU-HSIUNG",
         "性別": "男",
-        "生日": "1939年08月23日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "台北市第一選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300018-1.jpg",
         "學歷": [
             "省立台南一中畢業",
@@ -1178,25 +1063,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00018&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00018&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00018&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00018&stage=3"
+        }
     },
     {
         "姓名": "沈智慧",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00019&stage=3",
         "英文姓名": "SHEN CHIH-HWEI",
         "性別": "女",
-        "生日": "1957年09月16日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "台中市",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300019-1.jpg",
         "學歷": [
             "中國文化大學新聞系畢業、輔系企管"
@@ -1218,25 +1099,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00019&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00019&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00019&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00019&stage=3"
+        }
     },
     {
         "姓名": "邱垂貞",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00053&stage=3",
         "英文姓名": "Chiu,Chui-Chen",
         "性別": "男",
-        "生日": "1951年10月13日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "桃園縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300053-1.jpg",
         "學歷": [
             "大園國小",
@@ -1265,25 +1142,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00053&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00053&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00053&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00053&stage=3"
+        }
     },
     {
         "姓名": "周伯倫",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00050&stage=3",
         "英文姓名": "CHOU,PO-LUN",
         "性別": "男",
-        "生日": "1954年11月13日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "台北縣第一選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300050-1.jpg",
         "學歷": [
             "瑞芳國小",
@@ -1309,24 +1182,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00050&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00050&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00050&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00050&stage=3"
+        }
     },
     {
         "姓名": "周荃",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00051&stage=3",
-        "英文姓名": "null",
         "性別": "女",
         "黨籍": "無黨籍",
         "黨團": "無",
         "選區": "台北縣第一選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300051-1.jpg",
         "學歷": [
             "台南市勝利國小",
@@ -1351,24 +1220,19 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00051&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00051&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00051&stage=3"
+        }
     },
     {
         "姓名": "周陽山",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00052&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "新黨",
         "黨團": "新黨",
         "選區": "台北市第一選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300052-1.jpg",
         "學歷": [
             "台大學士",
@@ -1392,25 +1256,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00052&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00052&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00052&stage=3"
+        }
     },
     {
         "姓名": "林文郎",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00033&stage=3",
         "英文姓名": "LIN Wen Lang",
         "性別": "男",
-        "生日": "1945年03月12日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "全國不分區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300033-1.jpg",
         "學歷": [
             "北市高商畢業"
@@ -1430,25 +1289,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00033&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00033&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00033&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00033&stage=3"
+        }
     },
     {
         "姓名": "林宏宗",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00035&stage=3",
         "英文姓名": "Lin,Hong-Tsung",
         "性別": "男",
-        "生日": "1951年10月26日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "高雄市第一選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300035-1.jpg",
         "學歷": [
             "高雄高工",
@@ -1471,25 +1326,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00035&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00035&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00035&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00035&stage=3"
+        }
     },
     {
         "姓名": "林建榮",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00039&stage=3",
         "英文姓名": "LIN,CHIEN-JUNG",
         "性別": "男",
-        "生日": "1946年01月18日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "宜蘭縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300039-1.jpg",
         "學歷": [
             "員山鄉深溝國小",
@@ -1519,23 +1370,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00039&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00039&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00039&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00039&stage=3"
+        }
     },
     {
         "姓名": "林忠正",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00165&stage=3",
         "英文姓名": "Chung-Cheng Lin",
         "性別": "男",
-        "生日": "1954年01月09日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
-        "選區": "全國不分區",
-        "到職日期": "1996\/03\/13",
-        "委員會": [
-
-        ],
+        "選區": "全國不分區\r\n                                    \r\n                                      \r\n                                      \r\n                                     \t 到職日期：\r\n                                      1996\/03\/13",
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300165-1.jpg",
         "學歷": [
             "太平國民小學畢業",
@@ -1567,25 +1416,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00165&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00165&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00165&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00165&stage=3"
+        }
     },
     {
         "姓名": "林明義",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00037&stage=3",
         "英文姓名": "Lin, Ming-I",
         "性別": "男",
-        "生日": "1954年06月01日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "雲林縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300037-1.jpg",
         "學歷": [
             "虎尾鎮大屯國小",
@@ -1612,24 +1457,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00037&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00037&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00037&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00037&stage=3"
+        }
     },
     {
         "姓名": "林郁方",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00041&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "新黨",
         "黨團": "新黨",
         "選區": "全國不分區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300041-1.jpg",
         "學歷": [
             "維吉尼亞大學政治學博士"
@@ -1652,25 +1493,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00041&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00041&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00041&stage=3"
+        }
     },
     {
         "姓名": "林政則",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00040&stage=3",
         "英文姓名": "JUNQ-JZER LIN",
         "性別": "男",
-        "生日": "1944年02月05日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "新竹市",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300040-1.jpg",
         "學歷": [
             "新竹國小",
@@ -1701,25 +1537,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00040&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00040&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00040&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00040&stage=3"
+        }
     },
     {
         "姓名": "林炳坤",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00038&stage=3",
         "英文姓名": "LIN,PIN-KUAN",
         "性別": "男",
-        "生日": "1948年08月15日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "澎湖縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300038-1.jpg",
         "學歷": [
             "國立臺灣大學圖書館系畢業"
@@ -1743,24 +1575,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00038&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00038&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00038&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00038&stage=3"
+        }
     },
     {
         "姓名": "林哲夫",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00042&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "僑選",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300042-1.jpg",
         "學歷": [
             "國立台灣師範大學理學士",
@@ -1786,25 +1614,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00042&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00042&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00042&stage=3"
+        }
     },
     {
         "姓名": "林國龍",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00043&stage=3",
         "英文姓名": "Kuo-Lung Lin",
         "性別": "男",
-        "生日": "1943年12月08日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "屏東縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300043-1.jpg",
         "學歷": [
             "台東師範學校",
@@ -1827,9 +1650,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00043&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00043&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00043&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00043&stage=3"
+        }
     },
     {
         "姓名": "林源山",
@@ -1839,12 +1665,6 @@
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "高雄縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300044-1.jpg",
         "學歷": [
             "三信初、高商畢",
@@ -1877,24 +1697,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00044&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00044&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00044&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00044&stage=3"
+        }
     },
     {
         "姓名": "林瑞卿",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00045&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "全國不分區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300045-1.jpg",
         "學歷": [
             "無"
@@ -1913,25 +1729,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00045&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00045&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00045&stage=3"
+        }
     },
     {
         "姓名": "林濁水",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00046&stage=3",
         "英文姓名": "Lin,Cho-Shui",
         "性別": "男",
-        "生日": "1947年03月25日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "台北市第二選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300046-1.jpg",
         "學歷": [
             "政治大學畢業"
@@ -1953,25 +1764,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00046&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00046&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00046&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00046&stage=3"
+        }
     },
     {
         "姓名": "林錫山",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00047&stage=3",
-        "英文姓名": "null",
         "性別": "男",
-        "生日": "1962年03月17日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "彰化縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300047-1.jpg",
         "學歷": [
             "彰化市東芳國小",
@@ -1998,25 +1804,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00047&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00047&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00047&stage=3"
+        }
     },
     {
         "姓名": "林豐喜",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00048&stage=3",
         "英文姓名": "Lin",
         "性別": "男",
-        "生日": "1950年12月12日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "全國不分區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300048-1.jpg",
         "學歷": [
             "小學"
@@ -2038,9 +1839,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00048&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00048&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00048&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00048&stage=3"
+        }
     },
     {
         "姓名": "林耀興",
@@ -2050,12 +1854,6 @@
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "台中縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300049-1.jpg",
         "學歷": [
             "省立台中一中畢業",
@@ -2079,22 +1877,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00049&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00049&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00049&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00049&stage=3"
+        }
     },
     {
         "姓名": "范振宗",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00170&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
-        "選區": "新竹縣",
-        "到職日期": "1998\/01\/26",
-        "委員會": [
-
-        ],
+        "選區": "新竹縣\r\n                                    \r\n                                      \r\n                                      \r\n                                     \t 到職日期：\r\n                                      1998\/01\/26",
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300170-1.jpg",
         "學歷": [
             "無"
@@ -2114,25 +1910,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00170&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00170&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00170&stage=3"
+        }
     },
     {
         "姓名": "范巽綠",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00064&stage=3",
         "英文姓名": "Fan Sun-Lu",
         "性別": "女",
-        "生日": "1952年10月03日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "全國不分區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300064-1.jpg",
         "學歷": [
             "北一女",
@@ -2157,24 +1948,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00064&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00064&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00064&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00064&stage=3"
+        }
     },
     {
         "姓名": "郁慕明",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00063&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "新黨",
         "黨團": "新黨",
         "選區": "桃園縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300063-1.jpg",
         "學歷": [
             "女師附小",
@@ -2200,24 +1987,19 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00063&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00063&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00063&stage=3"
+        }
     },
     {
         "姓名": "姚立明",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00065&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "無黨籍",
         "黨團": "無",
         "選區": "高雄縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300065-1.jpg",
         "學歷": [
             "師大附中畢",
@@ -2243,24 +2025,19 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00065&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00065&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00065&stage=3"
+        }
     },
     {
         "姓名": "施台生",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00054&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "台南市",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300054-1.jpg",
         "學歷": [
             "崑山工專",
@@ -2288,25 +2065,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00054&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00054&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00054&stage=3"
+        }
     },
     {
         "姓名": "施明德",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00055&stage=3",
         "英文姓名": "Shih",
         "性別": "男",
-        "生日": "1941年01月15日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "台南市",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300055-1.jpg",
         "學歷": [
             "高雄中學",
@@ -2329,25 +2101,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00055&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00055&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00055&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00055&stage=3"
+        }
     },
     {
         "姓名": "柯建銘",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00062&stage=3",
         "英文姓名": "Chien Ming Ker",
         "性別": "男",
-        "生日": "1951年09月08日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "新竹市",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300062-1.jpg",
         "學歷": [
             "新竹國小",
@@ -2379,25 +2147,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00062&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00062&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00062&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00062&stage=3"
+        }
     },
     {
         "姓名": "洪玉欽",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00056&stage=3",
         "英文姓名": "HONG, YUH-CHIN",
         "性別": "男",
-        "生日": "1943年07月11日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "台南縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300056-1.jpg",
         "學歷": [
             "下營國小",
@@ -2430,25 +2194,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00056&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00056&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00056&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00056&stage=3"
+        }
     },
     {
         "姓名": "洪秀柱",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00058&stage=3",
         "英文姓名": "HUNG, HSIU-CHU",
         "性別": "女",
-        "生日": "1948年04月07日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "台北縣第三選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300058-1.jpg",
         "學歷": [
             "省立台北第二女中",
@@ -2476,25 +2236,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00058&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00058&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00058&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00058&stage=3"
+        }
     },
     {
         "姓名": "洪奇昌",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00060&stage=3",
         "英文姓名": "Chi-ChangHong",
         "性別": "男",
-        "生日": "1951年08月23日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "全國不分區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300060-1.jpg",
         "學歷": [
             "北市日新國小",
@@ -2522,25 +2278,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00060&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00060&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00060&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00060&stage=3"
+        }
     },
     {
         "姓名": "洪性榮",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00059&stage=3",
         "英文姓名": "HUNG,HSING-RONG",
         "性別": "男",
-        "生日": "1940年05月13日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "彰化縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300059-1.jpg",
         "學歷": [
             "二林國小畢",
@@ -2569,25 +2321,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00059&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00059&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00059&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00059&stage=3"
+        }
     },
     {
         "姓名": "洪昭男",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00061&stage=3",
         "英文姓名": "HUNG,CHAO-NAN",
         "性別": "男",
-        "生日": "1943年08月24日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "台中市",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300061-1.jpg",
         "學歷": [
             "奧地利維也納音樂學院",
@@ -2610,9 +2358,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00061&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00061&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00061&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00061&stage=3"
+        }
     },
     {
         "姓名": "洪濬哲",
@@ -2621,12 +2372,8 @@
         "性別": "男",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
-        "選區": "全國不分區",
-        "到職日期": "1993\/02\/01",
-        "委員會": [
-
-        ],
-        "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/",
+        "選區": "全國不分區\r\n                                    \r\n                                      \r\n                                      \r\n                                     \t 到職日期：\r\n                                      1993\/02\/01",
+        "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/people.jpg",
         "學歷": [
             "台灣師範大學畢業",
             "美國東北密蘇里大學碩士"
@@ -2648,23 +2395,19 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00171&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00171&stage=3"
+        }
     },
     {
         "姓名": "郝龍斌",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00069&stage=3",
         "英文姓名": "Hau, Lung-Bin",
         "性別": "男",
-        "生日": "1952年08月22日",
         "黨籍": "新黨",
         "黨團": "新黨",
-        "選區": "台北市第二選舉區",
-        "到職日期": "1996\/02\/01",
-        "委員會": [
-
-        ],
+        "選區": "台北市第二選舉區\r\n                                    \r\n                                      \r\n                                      \r\n                                     \t 到職日期：\r\n                                      1996\/02\/01",
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/31069.jpg",
         "學歷": [
             "台北市市立成功高中",
@@ -2684,25 +2427,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00069&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00069&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00069&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00069&stage=3"
+        }
     },
     {
         "姓名": "徐中雄",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00070&stage=3",
         "英文姓名": "SHYH,JONG-SHYONG",
         "性別": "男",
-        "生日": "1957年10月17日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "台中縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000_3_00070_5f.jpg",
         "學歷": [
             "瑞穗國小",
@@ -2733,25 +2472,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00070&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00070&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00070&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00070&stage=3"
+        }
     },
     {
         "姓名": "徐少萍",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00071&stage=3",
         "英文姓名": "LIN, HSU SHAO-PING",
         "性別": "女",
-        "生日": "1941年05月16日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "基隆市",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300071-1.jpg",
         "學歷": [
             "信義國小",
@@ -2787,25 +2522,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00071&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00071&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00071&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00071&stage=3"
+        }
     },
     {
         "姓名": "徐成焜",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00072&stage=3",
         "英文姓名": "Robert Hsu",
         "性別": "男",
-        "生日": "1947年01月04日",
         "黨籍": "無黨籍",
         "黨團": "民主聯盟",
         "選區": "苗栗縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300072-1.jpg",
         "學歷": [
             "錦水國小",
@@ -2833,25 +2564,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00072&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00072&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00072&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00072&stage=3"
+        }
     },
     {
         "姓名": "翁金珠",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00073&stage=3",
         "英文姓名": "LIV WONG, CHIN-CHU",
         "性別": "女",
-        "生日": "1947年01月31日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "彰化縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300073-1.jpg",
         "學歷": [
             "民生、北斗國校畢",
@@ -2881,9 +2608,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00073&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00073&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00073&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00073&stage=3"
+        }
     },
     {
         "姓名": "翁重鈞",
@@ -2893,12 +2623,6 @@
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "嘉義縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300074-1.jpg",
         "學歷": [
             "中國文化大學新聞系畢"
@@ -2920,24 +2644,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00074&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00074&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00074&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00074&stage=3"
+        }
     },
     {
         "姓名": "莊金生",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00104&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "平地原住民",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300104-1.jpg",
         "學歷": [
             "國立中興大學法學士"
@@ -2964,25 +2684,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00104&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00104&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00104&stage=3"
+        }
     },
     {
         "姓名": "郭廷才",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00077&stage=3",
         "英文姓名": "KUO, TING-TSAI",
         "性別": "男",
-        "生日": "1936年09月28日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "屏東縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300077-1.jpg",
         "學歷": [
             "美國加州聯合大學企管系畢業",
@@ -3007,9 +2722,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00077&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00077&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00077&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00077&stage=3"
+        }
     },
     {
         "姓名": "郭金生",
@@ -3019,12 +2737,6 @@
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "高雄市第二選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300078-1.jpg",
         "學歷": [
             "國立高雄海專",
@@ -3054,24 +2766,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00078&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00078&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00078&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00078&stage=3"
+        }
     },
     {
         "姓名": "郭振權",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00079&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "台中縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300079-1.jpg",
         "學歷": [
             "省立大甲高中畢",
@@ -3097,24 +2805,19 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00079&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00079&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00079&stage=3"
+        }
     },
     {
         "姓名": "陳一新",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00088&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "新黨",
         "黨團": "新黨",
         "選區": "全國不分區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300088-1.jpg",
         "學歷": [
             "美國哥倫比亞大學政治學博士"
@@ -3140,24 +2843,19 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00088&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00088&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00088&stage=3"
+        }
     },
     {
         "姓名": "陳文輝",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00089&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "建國黨",
         "黨團": "建國黨",
         "選區": "苗栗縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300089-1.jpg",
         "學歷": [
             "國立政治大學教育碩士",
@@ -3179,24 +2877,19 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00089&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00089&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00089&stage=3"
+        }
     },
     {
         "姓名": "陳永興",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00090&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "無黨籍",
         "黨團": "無",
         "選區": "花蓮縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300090-1.jpg",
         "學歷": [
             "高雄醫學院醫學系畢業",
@@ -3220,24 +2913,19 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00090&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00090&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00090&stage=3"
+        }
     },
     {
         "姓名": "陳光復",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00091&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "建國黨",
         "黨團": "建國黨",
         "選區": "高雄市第一選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300091-1.jpg",
         "學歷": [
             "忠孝國小",
@@ -3266,25 +2954,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00091&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00091&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00091&stage=3"
+        }
     },
     {
         "姓名": "陳宏昌",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00092&stage=3",
         "英文姓名": "CHEN, HUNG-CHANG",
         "性別": "男",
-        "生日": "1956年03月02日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "台北縣第二選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300092-1.jpg",
         "學歷": [
             "蘆洲國小",
@@ -3310,25 +2993,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00092&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00092&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00092&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00092&stage=3"
+        }
     },
     {
         "姓名": "陳其邁",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00095&stage=3",
         "英文姓名": "CHEN,Chi-mai",
         "性別": "男",
-        "生日": "1964年12月23日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "高雄市第二選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300095-1.jpg",
         "學歷": [
             "道明中學",
@@ -3359,25 +3038,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00095&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00095&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00095&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00095&stage=3"
+        }
     },
     {
         "姓名": "陳定南",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00094&stage=3",
         "英文姓名": "CHEN,Ding-Nan",
         "性別": "男",
-        "生日": "1943年09月29日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "宜蘭縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300094-1.jpg",
         "學歷": [
             "國立台灣大學法律系畢業"
@@ -3396,24 +3071,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00094&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00094&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00094&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00094&stage=3"
+        }
     },
     {
         "姓名": "陳癸淼",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00096&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "新黨",
         "黨團": "新黨",
         "選區": "全國不分區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300096-1.jpg",
         "學歷": [
             "師範大學國文系畢"
@@ -3435,25 +3106,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00096&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00096&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00096&stage=3"
+        }
     },
     {
         "姓名": "陳清寶",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00097&stage=3",
         "英文姓名": "Chen Ching-pao",
         "性別": "男",
-        "生日": "1955年12月09日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "金門縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300097-1.jpg",
         "學歷": [
             "國立海洋大學漁業系研究所",
@@ -3479,25 +3145,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00097&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00097&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00097&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00097&stage=3"
+        }
     },
     {
         "姓名": "陳傑儒",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00100&stage=3",
         "英文姓名": "Chen chieh-ju",
         "性別": "男",
-        "生日": "1937年11月25日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "台中縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300100-1.jpg",
         "學歷": [
             "台中縣頭汴國小",
@@ -3522,25 +3184,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00100&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00100&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00100&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00100&stage=3"
+        }
     },
     {
         "姓名": "陳朝容",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00099&stage=3",
         "英文姓名": "CHEN,CHAO-JUNG",
         "性別": "男",
-        "生日": "1956年02月25日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "彰化縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300099-1.jpg",
         "學歷": [
             "埔鹽國小",
@@ -3569,24 +3227,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00099&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00099&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00099&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00099&stage=3"
+        }
     },
     {
         "姓名": "陳漢強",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00101&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "新黨",
         "黨團": "新黨",
         "選區": "台北市第二選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300101-1.jpg",
         "學歷": [
             "國立政治大學教育碩士",
@@ -3608,25 +3262,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00101&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00101&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00101&stage=3"
+        }
     },
     {
         "姓名": "陳鴻基",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00102&stage=3",
         "英文姓名": "CHEN HORNG-CHI",
         "性別": "男",
-        "生日": "1949年09月30日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "台北市第一選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000_3_00102_1f.jpg",
         "學歷": [
             "淡水工商專校會統科",
@@ -3652,25 +3301,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00102&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00102&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00102&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00102&stage=3"
+        }
     },
     {
         "姓名": "陳瓊讚",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00103&stage=3",
         "英文姓名": "CHEN, GENE-TZN",
         "性別": "男",
-        "生日": "1941年07月01日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "全國不分區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000_3_00103_1f.jpg",
         "學歷": [
             "台灣大學法律系",
@@ -3696,25 +3341,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00103&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00103&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00103&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00103&stage=3"
+        }
     },
     {
         "姓名": "高育仁",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00066&stage=3",
         "英文姓名": "KAO,YU-JEN",
         "性別": "男",
-        "生日": "1934年08月30日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "台南縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300066-1.jpg",
         "學歷": [
             "佳里延平國小",
@@ -3750,24 +3391,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00066&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00066&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00066&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00066&stage=3"
+        }
     },
     {
         "姓名": "高惠宇",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00067&stage=3",
-        "英文姓名": "null",
         "性別": "女",
         "黨籍": "新黨",
         "黨團": "新黨",
         "選區": "台北市第二選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300067-1.jpg",
         "學歷": [
             "興雅國小",
@@ -3793,24 +3430,19 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00067&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00067&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00067&stage=3"
+        }
     },
     {
         "姓名": "高揚昇",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00068&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "山地原住民",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300068-1.jpg",
         "學歷": [
             "桃園縣復興鄉介壽國小畢",
@@ -3836,25 +3468,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00068&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00068&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00068&stage=3"
+        }
     },
     {
         "姓名": "張文儀",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00081&stage=3",
         "英文姓名": "CHANG WEN I",
         "性別": "男",
-        "生日": "1948年11月15日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "台中縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300081-1.jpg",
         "學歷": [
             "台灣省台中縣清水高中"
@@ -3875,24 +3502,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00081&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00081&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00081&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00081&stage=3"
+        }
     },
     {
         "姓名": "張光錦",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00082&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "全國不分區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300082-1.jpg",
         "學歷": [
             "台中一中",
@@ -3917,25 +3540,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00082&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00082&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00082&stage=3"
+        }
     },
     {
         "姓名": "張旭成",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00083&stage=3",
         "英文姓名": "PARRIS HSU-CHENG CHA",
         "性別": "男",
-        "生日": "1936年12月30日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "僑選",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000_3_00083_5f.jpg",
         "學歷": [
             "國立臺灣大學政治系學士",
@@ -3960,25 +3578,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00083&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00083&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00083&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00083&stage=3"
+        }
     },
     {
         "姓名": "張俊宏",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00084&stage=3",
         "英文姓名": "CHANG CHUN HUNG",
         "性別": "男",
-        "生日": "1938年05月17日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "全國不分區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300084-1.jpg",
         "學歷": [
             "台灣大學政治研究所"
@@ -4003,25 +3617,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00084&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00084&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00084&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00084&stage=3"
+        }
     },
     {
         "姓名": "張俊雄",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00085&stage=3",
         "英文姓名": "Chang Chun-Hsiung",
         "性別": "男",
-        "生日": "1934年03月23日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "高雄市第一選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000_3_00085_1f.jpg",
         "學歷": [
             "台灣大學法律系法學組第一名畢業",
@@ -4046,24 +3656,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00085&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00085&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00085&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00085&stage=3"
+        }
     },
     {
         "姓名": "張晉城",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00086&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "無黨籍",
         "黨團": "無",
         "選區": "台北市第一選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300086-1.jpg",
         "學歷": [
             "國立台灣大學法律系畢",
@@ -4091,25 +3697,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00086&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00086&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00086&stage=3"
+        }
     },
     {
         "姓名": "曹爾忠",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00087&stage=3",
         "英文姓名": "CHAO, ERH-CHUNG",
         "性別": "男",
-        "生日": "1954年08月24日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "連江縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000_3_00087_2f.jpg",
         "學歷": [
             "國立馬祖高中",
@@ -4139,25 +3740,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00087&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00087&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00087&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00087&stage=3"
+        }
     },
     {
         "姓名": "章仁香",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00080&stage=3",
         "英文姓名": "CHANG JEN-HSIANG",
         "性別": "女",
-        "生日": "1953年06月27日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "平地原住民",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300080-1.jpg",
         "學歷": [
             "國立中興大學植物學系畢業",
@@ -4185,25 +3782,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00080&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00080&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00080&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00080&stage=3"
+        }
     },
     {
         "姓名": "許添財",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00075&stage=3",
         "英文姓名": "Hsu Tain-Tsair",
         "性別": "男",
-        "生日": "1951年01月23日",
         "黨籍": "民主進步黨",
         "黨團": "新國家陣線",
         "選區": "台南市",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300075-1.jpg",
         "學歷": [
             "靜心中小學",
@@ -4254,9 +3847,12 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00075&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00075&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00075&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00075&stage=3"
+        }
     },
     {
         "姓名": "許舒博",
@@ -4266,12 +3862,6 @@
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "雲林縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300076-1.jpg",
         "學歷": [
             "斗六市鎮西國小",
@@ -4297,24 +3887,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00076&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00076&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00076&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00076&stage=3"
+        }
     },
     {
         "姓名": "傅崑成",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00118&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "新黨",
         "黨團": "新黨",
         "選區": "台北縣第一選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300118-1.jpg",
         "學歷": [
             "屏東空小",
@@ -4343,25 +3929,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00118&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00118&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00118&stage=3"
+        }
     },
     {
         "姓名": "彭紹瑾",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00110&stage=3",
         "英文姓名": "Shaw-Jiin Perng",
         "性別": "男",
-        "生日": "1957年02月28日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "桃園縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300110-1.jpg",
         "學歷": [
             "台灣大學法律系畢業",
@@ -4383,25 +3964,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00110&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00110&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00110&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00110&stage=3"
+        }
     },
     {
         "姓名": "曾永權",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00105&stage=3",
         "英文姓名": "Tseng Yung-Chuan",
         "性別": "男",
-        "生日": "1947年09月10日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "屏東縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000_3_00105_1f.jpg",
         "學歷": [
             "屏東中學畢",
@@ -4431,25 +4008,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00105&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00105&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00105&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00105&stage=3"
+        }
     },
     {
         "姓名": "曾振農",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00106&stage=3",
         "英文姓名": "TSENG CHEN-NUNG",
         "性別": "男",
-        "生日": "1951年02月25日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "嘉義縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000_3_00106_1f.jpg",
         "學歷": [
             "高中畢業"
@@ -4472,25 +4045,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00106&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00106&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00106&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00106&stage=3"
+        }
     },
     {
         "姓名": "游淮銀",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00107&stage=3",
         "英文姓名": "Yiu, Huai-Yin",
         "性別": "男",
-        "生日": "1942年04月26日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "彰化縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300107-1.jpg",
         "學歷": [
             "員林國校畢",
@@ -4525,25 +4094,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00107&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00107&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00107&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00107&stage=3"
+        }
     },
     {
         "姓名": "葉菊蘭",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00121&stage=3",
         "英文姓名": "YEH, CHU-LAN",
         "性別": "女",
-        "生日": "1949年02月13日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "台北市第一選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300121-1.jpg",
         "學歷": [
             "輔仁大學法律系"
@@ -4565,24 +4130,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00121&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00121&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00121&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00121&stage=3"
+        }
     },
     {
         "姓名": "葛雨琴",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00122&stage=3",
-        "英文姓名": "null",
         "性別": "女",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "全國不分區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300122-1.jpg",
         "學歷": [
             "東吳大學法律系畢",
@@ -4606,25 +4167,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00122&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00122&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00122&stage=3"
+        }
     },
     {
         "姓名": "馮定國",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00108&stage=3",
         "英文姓名": "FENG, TING-KUO",
         "性別": "男",
-        "生日": "1950年09月24日",
         "黨籍": "新黨",
         "黨團": "新黨",
         "選區": "台中縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300108-1.jpg",
         "學歷": [
             "台中縣立霧峰光復國小",
@@ -4650,24 +4206,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00108&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00108&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00108&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00108&stage=3"
+        }
     },
     {
         "姓名": "黃天福",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00111&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "台北市第一選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300111-1.jpg",
         "學歷": [
             "國立台灣大學政治學系畢",
@@ -4693,25 +4245,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00111&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00111&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00111&stage=3"
+        }
     },
     {
         "姓名": "黃秀孟",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00113&stage=3",
         "英文姓名": "Wang Huang Hsiu-Mong",
         "性別": "女",
-        "生日": "1944年10月02日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "台南縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300113-1.jpg",
         "學歷": [
             "國立台灣師範大學社教系畢業",
@@ -4736,25 +4283,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00113&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00113&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00113&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00113&stage=3"
+        }
     },
     {
         "姓名": "黃昭順",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00114&stage=3",
         "英文姓名": "HUANG, Chao-shun",
         "性別": "女",
-        "生日": "1953年08月22日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "高雄市第二選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300114-1.jpg",
         "學歷": [
             "高雄大同國小",
@@ -4786,24 +4329,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00114&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00114&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00114&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00114&stage=3"
+        }
     },
     {
         "姓名": "黃國鐘",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00116&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "高雄市第二選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300116-1.jpg",
         "學歷": [
             "臺灣大學法律學系(輔導經濟學系)榜首",
@@ -4831,24 +4370,19 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00116&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00116&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00116&stage=3"
+        }
     },
     {
         "姓名": "黃清林",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00115&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "僑選",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300115-1.jpg",
         "學歷": [
             "台大法律系畢",
@@ -4871,25 +4405,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00115&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00115&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00115&stage=3"
+        }
     },
     {
         "姓名": "黃爾璇",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00117&stage=3",
         "英文姓名": "HUANG, ERH-HSUAN",
         "性別": "男",
-        "生日": "1936年03月05日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "全國不分區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300117-1.jpg",
         "學歷": [
             "政治研究所政治學博士",
@@ -4912,25 +4441,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00117&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00117&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00117&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00117&stage=3"
+        }
     },
     {
         "姓名": "楊吉雄",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00119&stage=3",
         "英文姓名": "YANG, Chi-Chung",
         "性別": "男",
-        "生日": "1943年07月08日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "全國不分區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300119-1.jpg",
         "學歷": [
             "高中畢業"
@@ -4954,25 +4479,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00119&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00119&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00119&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00119&stage=3"
+        }
     },
     {
         "姓名": "靳曾珍麗",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00120&stage=3",
         "英文姓名": "Chin, Tseng, Jean-li",
         "性別": "女",
-        "生日": "1933年08月29日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "全國不分區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300120-1.jpg",
         "學歷": [
             "國防醫學院護理系畢業",
@@ -5001,24 +4522,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00120&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00120&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00120&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00120&stage=3"
+        }
     },
     {
         "姓名": "廖大林",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00123&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "雲林縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300123-1.jpg",
         "學歷": [
             "台灣大學經濟系畢",
@@ -5045,25 +4562,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00123&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00123&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00123&stage=3"
+        }
     },
     {
         "姓名": "廖福本",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00124&stage=3",
         "英文姓名": "LIAO, HWU-PENG",
         "性別": "男",
-        "生日": "1938年06月01日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "雲林縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300124-1.jpg",
         "學歷": [
             "永光國小",
@@ -5093,25 +4605,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00124&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00124&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00124&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00124&stage=3"
+        }
     },
     {
         "姓名": "廖學廣",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00125&stage=3",
         "英文姓名": "Liao Hsueh-Kuang",
         "性別": "男",
-        "生日": "1954年01月02日",
         "黨籍": "無黨籍",
         "黨團": "無",
         "選區": "台北縣第三選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300125-1.jpg",
         "學歷": [
             "汐止國小畢",
@@ -5134,25 +4642,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00125&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00125&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00125&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00125&stage=3"
+        }
     },
     {
         "姓名": "蔡中涵",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00133&stage=3",
         "英文姓名": "TSAY, CHUNG-HAN",
         "性別": "男",
-        "生日": "1943年09月25日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "平地原住民",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300133-1.jpg",
         "學歷": [
             "無"
@@ -5176,24 +4680,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00133&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00133&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00133&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00133&stage=3"
+        }
     },
     {
         "姓名": "蔡正揚",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00134&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "新黨",
         "黨團": "新黨",
         "選區": "台北縣第三選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300134-1.jpg",
         "學歷": [
             "三重正義國小",
@@ -5218,23 +4718,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00134&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00134&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00134&stage=3"
+        }
     },
     {
         "姓名": "蔡同榮",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00168&stage=3",
         "英文姓名": "CHAI,TRONG-RONG",
         "性別": "男",
-        "生日": "1935年06月13日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
-        "選區": "嘉義市",
-        "到職日期": "1997\/12\/04",
-        "委員會": [
-
-        ],
+        "選區": "嘉義市\r\n                                    \r\n                                      \r\n                                      \r\n                                     \t 到職日期：\r\n                                      1997\/12\/04",
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300168-1.jpg",
         "學歷": [
             "嘉義中學高中部",
@@ -5261,24 +4758,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00168&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00168&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00168&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00168&stage=3"
+        }
     },
     {
         "姓名": "蔡式淵",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00135&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "嘉義縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300135-1.jpg",
         "學歷": [
             "台灣大學畢",
@@ -5307,25 +4800,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00135&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00135&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00135&stage=3"
+        }
     },
     {
         "姓名": "蔡明憲",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00136&stage=3",
         "英文姓名": "Tsai,Ming-shian",
         "性別": "男",
-        "生日": "1941年08月09日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "台中市",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300136-1.jpg",
         "學歷": [
             "西屯國小",
@@ -5355,22 +4843,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00136&stage=3",
+            "委員簡傳": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legBiography.action?lgno=00136&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00136&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00136&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00136&stage=3"
+        }
     },
     {
         "姓名": "蔡勝邦",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00167&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
-        "選區": "全國不分區",
-        "到職日期": "1996\/06\/17",
-        "委員會": [
-
-        ],
+        "選區": "全國不分區\r\n                                    \r\n                                      \r\n                                      \r\n                                     \t 到職日期：\r\n                                      1996\/06\/17",
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300167-1.jpg",
         "學歷": [
             "國立台灣大學法律系、法律研究所",
@@ -5390,25 +4877,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00167&stage=3",
+            "委員簡傳": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legBiography.action?lgno=00167&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00167&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00167&stage=3"
+        }
     },
     {
         "姓名": "蔡煌瑯",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00137&stage=3",
         "英文姓名": "TSAI,Huang-Liang",
         "性別": "男",
-        "生日": "1960年07月05日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "南投縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300137-1.jpg",
         "學歷": [
             "育英國小",
@@ -5433,9 +4916,13 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00137&stage=3",
+            "委員簡傳": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legBiography.action?lgno=00137&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00137&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00137&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00137&stage=3"
+        }
     },
     {
         "姓名": "蔡璧煌",
@@ -5445,12 +4932,6 @@
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "全國不分區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300138-1.jpg",
         "學歷": [
             "師大教育學士",
@@ -5483,25 +4964,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00138&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00138&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00138&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00138&stage=3"
+        }
     },
     {
         "姓名": "趙永清",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00126&stage=3",
         "英文姓名": "JAO, YUNG-CHING",
         "性別": "男",
-        "生日": "1957年11月09日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "台北縣第三選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300126-1.jpg",
         "學歷": [
             "中和國小",
@@ -5534,25 +5011,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00126&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00126&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00126&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00126&stage=3"
+        }
     },
     {
         "姓名": "鄭永金",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00128&stage=3",
         "英文姓名": "CHENG, YUNG-CHIN",
         "性別": "男",
-        "生日": "1949年10月08日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "新竹縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300128-1.jpg",
         "學歷": [
             "竹中國小",
@@ -5585,25 +5058,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00128&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00128&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00128&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00128&stage=3"
+        }
     },
     {
         "姓名": "鄭逢時",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00129&stage=3",
         "英文姓名": "CHENG-Feng-Shih",
         "性別": "男",
-        "生日": "1942年12月27日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "台北縣第一選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000_3_00129_1f.jpg",
         "學歷": [
             "政治大學行政專科",
@@ -5630,25 +5099,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00129&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00129&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00129&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00129&stage=3"
+        }
     },
     {
         "姓名": "鄭朝明",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00130&stage=3",
         "英文姓名": "CHENG,TSAO-MIN",
         "性別": "男",
-        "生日": "1952年03月09日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "屏東縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300130-1.jpg",
         "學歷": [
             "萬丹國校",
@@ -5678,25 +5143,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00130&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00130&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00130&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00130&stage=3"
+        }
     },
     {
         "姓名": "鄭龍水",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00131&stage=3",
         "英文姓名": "Cheng, Long-Shai",
         "性別": "男",
-        "生日": "1959年12月07日",
         "黨籍": "新黨",
         "黨團": "新黨",
         "選區": "全國不分區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300131-1.jpg",
         "學歷": [
             "淡江大學中文系畢業"
@@ -5717,25 +5178,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00131&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00131&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00131&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00131&stage=3"
+        }
     },
     {
         "姓名": "鄭寶清",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00132&stage=3",
         "英文姓名": "CHENG,PAO-CHING",
         "性別": "男",
-        "生日": "1955年01月10日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "桃園縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300132-1.jpg",
         "學歷": [
             "中興大學公巷行政系",
@@ -5760,25 +5217,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00132&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00132&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00132&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00132&stage=3"
+        }
     },
     {
         "姓名": "劉光華",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00139&stage=3",
         "英文姓名": "Liu Kuang-Hua",
         "性別": "男",
-        "生日": "1943年09月19日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "全國不分區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300139-1.jpg",
         "學歷": [
             "國立政治大學政治研究所法學博士"
@@ -5799,25 +5252,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00139&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00139&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00139&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00139&stage=3"
+        }
     },
     {
         "姓名": "劉松藩",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00140&stage=3",
         "英文姓名": "LIU SUNG-PAN",
         "性別": "男",
-        "生日": "1931年12月03日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "全國不分區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300140-1.jpg",
         "學歷": [
             "省立台中商專職業學校高級部畢業",
@@ -5841,24 +5290,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00140&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00140&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00140&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00140&stage=3"
+        }
     },
     {
         "姓名": "劉國昭",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00142&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "全國不分區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300142-1.jpg",
         "學歷": [
             "東海大學經濟學士",
@@ -5882,25 +5327,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00142&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00142&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00142&stage=3"
+        }
     },
     {
         "姓名": "劉盛良",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00141&stage=3",
         "英文姓名": "LIU, SHEN-LIANG",
         "性別": "男",
-        "生日": "1939年03月18日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "台北縣第三選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000_3_00141_2f.jpg",
         "學歷": [
             "大豐國小",
@@ -5929,24 +5369,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00141&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00141&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00141&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00141&stage=3"
+        }
     },
     {
         "姓名": "劉進興",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00143&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "全國不分區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300143-1.jpg",
         "學歷": [
             "台灣大學化學系學士",
@@ -5972,23 +5408,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00143&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00143&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00143&stage=3"
+        }
     },
     {
         "姓名": "潘維剛",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00127&stage=3",
         "英文姓名": "PAN, WEI-KANG",
         "性別": "女",
-        "生日": "1957年03月31日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
-        "選區": "台北市第一選舉區",
-        "到職日期": "2006\/02\/01",
-        "委員會": [
-
-        ],
+        "選區": "台北市第一選舉區\r\n                                    \r\n                                      \r\n                                      \r\n                                     \t 到職日期：\r\n                                      2006\/02\/01",
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300127-1.jpg",
         "學歷": [
             "銘傳大學會統系",
@@ -6013,25 +5446,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00127&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00127&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00127&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00127&stage=3"
+        }
     },
     {
         "姓名": "蕭金蘭",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00155&stage=3",
         "英文姓名": "CHIANG HSIAO, CHIN-L",
         "性別": "女",
-        "生日": "1948年08月26日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "高雄縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300155-1.jpg",
         "學歷": [
             "台北第一女中",
@@ -6063,24 +5492,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00155&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00155&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00155&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00155&stage=3"
+        }
     },
     {
         "姓名": "蕭裕珍",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00156&stage=3",
-        "英文姓名": "null",
         "性別": "女",
         "黨籍": "民主進步黨",
         "黨團": "新國家陣線",
         "選區": "台北市第二選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300156-1.jpg",
         "學歷": [
             "國立台灣大學法律系畢",
@@ -6108,24 +5533,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00156&stage=3",
+            "委員簡傳": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legBiography.action?lgno=00156&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00156&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00156&stage=3"
+        }
     },
     {
         "姓名": "賴來焜",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00144&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "新黨",
         "黨團": "新黨",
         "選區": "桃園縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300144-1.jpg",
         "學歷": [
             "新隆國小",
@@ -6150,24 +5571,19 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00144&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00144&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00144&stage=3"
+        }
     },
     {
         "姓名": "錢達",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00146&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "新黨",
         "黨團": "新黨",
         "選區": "僑選",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300146-1.jpg",
         "學歷": [
             "美國德州大學土木工程碩士"
@@ -6190,25 +5606,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00146&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00146&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00146&stage=3"
+        }
     },
     {
         "姓名": "謝啟大",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00148&stage=3",
         "英文姓名": "CHOU, HSIEH CHI-TA",
         "性別": "女",
-        "生日": "1949年02月10日",
         "黨籍": "新黨",
         "黨團": "新黨",
         "選區": "台中市",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300148-1.jpg",
         "學歷": [
             "台北女師",
@@ -6229,24 +5640,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00148&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00148&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00148&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00148&stage=3"
+        }
     },
     {
         "姓名": "謝欽宗",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00149&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "台北市第二選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300149-1.jpg",
         "學歷": [
             "東湖國小",
@@ -6276,24 +5683,19 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00149&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00149&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00149&stage=3"
+        }
     },
     {
         "姓名": "謝錦川",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00150&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "台南縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300150-1.jpg",
         "學歷": [
             "大灣國小",
@@ -6321,24 +5723,19 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00150&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00150&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00150&stage=3"
+        }
     },
     {
         "姓名": "謝聰敏",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00151&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "彰化縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300151-1.jpg",
         "學歷": [
             "二林國小",
@@ -6366,25 +5763,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00151&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00151&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00151&stage=3"
+        }
     },
     {
         "姓名": "鍾利德",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00153&stage=3",
         "英文姓名": "CHUNG,  LI-TE",
         "性別": "男",
-        "生日": "1942年06月15日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "花蓮縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300153-1.jpg",
         "學歷": [
             "明義國民小學",
@@ -6404,25 +5796,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00153&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00153&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00153&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00153&stage=3"
+        }
     },
     {
         "姓名": "韓國瑜",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00152&stage=3",
         "英文姓名": "Han Kuo-Yu",
         "性別": "男",
-        "生日": "1957年06月17日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "台北縣第三選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300152-1.jpg",
         "學歷": [
             "板橋國小",
@@ -6456,22 +5844,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00152&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00152&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00152&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00152&stage=3"
+        }
     },
     {
         "姓名": "簡金卿",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00166&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
-        "選區": "全國不分區",
-        "到職日期": "1996\/06\/17",
-        "委員會": [
-
-        ],
+        "選區": "全國不分區\r\n                                    \r\n                                      \r\n                                      \r\n                                     \t 到職日期：\r\n                                      1996\/06\/17",
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300166-1.jpg",
         "學歷": [
             "汐止國小",
@@ -6495,25 +5881,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00166&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00166&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00166&stage=3"
+        }
     },
     {
         "姓名": "簡錫楷",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00158&stage=3",
         "英文姓名": "Hsi-chieh Chien",
         "性別": "男",
-        "生日": "1947年03月15日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "全國不分區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300158-1.jpg",
         "學歷": [
             "省立彰化高商畢",
@@ -6545,25 +5926,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00158&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00158&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00158&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00158&stage=3"
+        }
     },
     {
         "姓名": "顏錦福",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00154&stage=3",
         "英文姓名": "Yen Ching-Fu",
         "性別": "男",
-        "生日": "1937年03月02日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
         "選區": "台北市第一選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300154-1.jpg",
         "學歷": [
             "嘉義大同國小畢",
@@ -6594,24 +5971,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00154&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00154&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00154&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00154&stage=3"
+        }
     },
     {
         "姓名": "羅傳進",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00159&stage=3",
-        "英文姓名": "null",
         "性別": "男",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "全國不分區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300159-1.jpg",
         "學歷": [
             "中興大學畢"
@@ -6637,25 +6010,20 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00159&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00159&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00159&stage=3"
+        }
     },
     {
         "姓名": "羅福助",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00160&stage=3",
         "英文姓名": "Lo Fu Chu",
         "性別": "男",
-        "生日": "1943年07月02日",
         "黨籍": "無黨籍",
         "黨團": "無",
         "選區": "台北縣第二選舉區",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300160-1.jpg",
         "學歷": [
             "立法委員候選人檢覈合格",
@@ -6679,23 +6047,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00160&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00160&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00160&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00160&stage=3"
+        }
     },
     {
         "姓名": "蘇煥智",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00162&stage=3",
         "英文姓名": "Su, Huan-Chih",
         "性別": "男",
-        "生日": "1956年07月20日",
         "黨籍": "民主進步黨",
         "黨團": "民主進步黨",
-        "選區": "台南縣",
-        "到職日期": "1996\/02\/01",
-        "委員會": [
-
-        ],
+        "選區": "台南縣\r\n                                    \r\n                                      \r\n                                      \r\n                                     \t 到職日期：\r\n                                      1996\/02\/01",
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/31162.jpg",
         "學歷": [
 
@@ -6712,25 +6078,21 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00162&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00162&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00162&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00162&stage=3"
+        }
     },
     {
         "姓名": "饒穎奇",
         "link": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00164&stage=3",
         "英文姓名": "YAO,Eng-Chi",
         "性別": "男",
-        "生日": "1934年11月05日",
         "黨籍": "中國國民黨",
         "黨團": "中國國民黨",
         "選區": "台東縣",
-        "委員會": [
-            [
-                "\n",
-                ""
-            ]
-        ],
         "pic": "http:\/\/www.ly.gov.tw\/upload\/01_introduce\/0103_leg\/LGpicture\/ly1000-300164-1.jpg",
         "學歷": [
             "初鹿國小",
@@ -6758,8 +6120,11 @@
         "通訊處": [
 
         ],
-        "簡介": [
-
-        ]
+        "links": {
+            "委員簡介": "http:\/\/www.ly.gov.tw\/03_leg\/0301_main\/legIntro.action?lgno=00164&stage=3",
+            "英文版": "http:\/\/www.ly.gov.tw\/en\/03_leg\/legIntro.action?lgno=00164&stage=3",
+            "日文版": "http:\/\/www.ly.gov.tw\/jp\/03_leg\/legIntro.action?lgno=00164&stage=3",
+            "西班牙文版": "http:\/\/www.ly.gov.tw\/sp\/03_leg\/legIntro.action?lgno=00164&stage=3"
+        }
     }
 ]
