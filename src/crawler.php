@@ -33,12 +33,19 @@ class Crawler
         return $absolute;
     }
 
-    public function getBodyFromURL($url)
+    public function getBodyFromURL($url, $try = 1)
     {
         error_log($url);
+        if ($try > 3) {
+            throw new Exception('try 3 times...');
+        }
         $curl = curl_init($url);
         curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
-        return curl_exec($curl);
+        $ret = curl_exec($curl);
+        if (200 !== curl_getinfo($curl, CURLINFO_HTTP_CODE)) {
+            return $this->getBodyFromURL($url, $try + 1);
+        }
+        return $ret;
     }
 
     public function main($url)
