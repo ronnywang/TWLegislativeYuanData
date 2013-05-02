@@ -79,13 +79,13 @@ class Crawler
                     $person->{$key} = trim($value);
                 } elseif ('委員會' == $key) {
                     $committees = array();
-                    foreach (explode("<br>", $this->innerHTML($persondoc, $li_dom)) as $body) {
+                    foreach (preg_split("/<br[^>]*>/", $this->innerHTML($persondoc, $li_dom)) as $body) {
                         list($key, $value) = explode('：', $body);
                         if (trim($key) == '委員會') {
                         } elseif (trim($key) == '到職日期') {
                             $person->{'到職日期'} = trim($value);
                         } else {
-                            $committees[] = array($key, trim($value));
+                            $committees[] = array($key, trim(preg_replace('/\s+/', ' ', $value)));
                         }
                     }
                     $person->{'委員會'} = $committees;
